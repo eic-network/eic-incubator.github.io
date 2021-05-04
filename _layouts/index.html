@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body data-spy="scroll" data-target="#navigation" data-offset="120">
+  {% include home/header.html %}
+  {% include nav.html %}
+  <div class="container">
+    {% include home/content.html %}
+    {% include home/projects.html %}
+    {% include home/contact.html %}
+  </div>
+
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

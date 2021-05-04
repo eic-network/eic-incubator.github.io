@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body data-spy="scroll" data-target="#navigation" data-offset="120">
+  {% include nav.html %}
+
+  {% include project/content.html %}
+  {% include project/publications.html %}
+
+  {% if page.team_initiators %}
+    {% if page.team_participants %}
+      {% include project/team.html %}
+    {% endif %}
+  {% endif %}
+
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+
+</html>

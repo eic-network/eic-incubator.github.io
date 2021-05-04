@@ -1,0 +1,25 @@
+{% assign projects = site.projects | sort: 'date' | reverse %}
+<section id="projects" class="no-padding-bottom">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="heading">Projects</h2>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+        {% for project in projects %}
+            <div class="col-sm-4 col-md-4">
+                <div class="box">
+                    <div style="padding: 0 20px; min-height: 450px;">
+                        <h4><a href="{{ project.url }}">{{ project.title }}</a></h4>
+                        <p><b>{{  project.intro }}</b>{{ project.description | truncatewords: 100}}</p>
+                        <a href="{{ project.url }}" class="btn btn-primary">&raquo; more</a>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+        </div>
+    </div>
+</section>

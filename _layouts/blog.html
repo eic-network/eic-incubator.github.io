@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body data-spy="scroll" data-target="#navigation" data-offset="120">
+  {% include nav.html %}
+  <div class="container">
+    <h2>EIC Blog</h2>
+    <div class="blog-header">
+      {{ page.content }}
+    </div>
+
+    <div class="content-wrapper blog-content-list grid pure-g">
+      <div id="listing" class="block pure-u-2-3 h-feed">
+        {% for post in site.posts %}
+          <div class="list-blog-header">
+            <span class="list-blog-date">
+              <time class="dt-published" datetime="{{ post.date | date: "%c" }}">
+                <span>{{ post.date | date: "%d" }}</span>
+                <em>{{ post.date | date: "%b" }}</em>
+              </time>
+            </span>
+            <h3 class="p-name"><a href="{{ post.url }}" class="u-url">{{ post.title }}</a></h3>
+          </div>
+          <div class="p-summary e-content">
+              {{ post.content | truncatewords: 80 }}
+            <p><a href="{{ post.url }}">Continue Reading</a></p>
+          </div>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+
+  {% include footer.html %}
+  {% include scripts.html %}
+</body>
+</html>
+

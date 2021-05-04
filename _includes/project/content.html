@@ -1,0 +1,28 @@
+  <div class="container">
+  {% if page.image %}
+  <section id="{{ page.slug }}" style="background-image: url({{ page.image }}); background-size: 100%; background-repeat: no-repeat;">
+  {% else %}
+  <section id="{{ page.slug }}">
+  {% endif %}
+      <div class="container clearfix">
+        <div class="row margin-bottom">
+            <h2 class="heading">{{ page.title }} </h2>
+
+            <div class="col-sm-12 col-md-8 col-md-offset-2 margin-bottom">
+
+                <p class="lead text-center">
+                    {{ page.intro }}
+                </p>
+                <p>
+                    {{ page.description|markdownify }}
+                </p>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="content">
+    {{ page.content|markdown }}
+</section>
+
+  {% include scripts.html %}
+</body>

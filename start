@@ -1,0 +1,21 @@
+#!/bin/sh
+
+echo Building...
+
+export USER_UID=$(id -u)
+export USER_GID=$(id -g)
+export USER_NAME=$USER
+docker build \
+    --build-arg USER_UID=$USER_UID \
+    --build-arg USER_GID=$USER_GID \
+    --build-arg USER_NAME=$USER_NAME \
+    -t eic-network/jekyll \
+    .
+
+echo Running...
+docker run --rm \
+    --volume="$PWD:/srv/jekyll:rw" \
+    --workdir=/srv/jekyll \
+    -p 4000:4000 -p 35729:35729 \
+    eic-network/jekyll
+

@@ -1,0 +1,37 @@
+<section id="about">
+    <div class="container clearfix">
+        <div class="row margin-bottom">
+            <h2 class="heading">About us</h2>
+                <div class="col-md-2 margin-bottom">
+                </div>
+                <div class="col-md-8 margin-bottom">
+                    {{ page.content | markdownify }}
+                </div>
+            <div class="col-md-12 margin-bottom">
+                <h3 class="text-center">The current members of EIC are</h3>
+                <style>
+                    .col-md-3.partner {
+                        text-align: center;
+                        height: 300px;
+
+                    }
+                    .partner-logo {
+                        background-repeat: no-repeat;
+                        background-position: 50% 50%;
+                        height: 300px;
+                        width: calc(100% - 5px);
+                        background-size: contain;
+                        display: block;
+                    }
+                </style>
+
+                {% for partner in site.data.partners %}
+                <div class="col-md-3 partner">
+                    <a href="{{ partner.url }}" name="{{ partner.name }}" target="_blank" class="partner-logo" style="background-image:url('/assets/images/partners/{{ partner.image }}')"></a>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+
+    </div>
+</section>

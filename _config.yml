@@ -1,0 +1,44 @@
+title: EIC
+email: eic@0x19.net
+description: European Investigative Collaborations
+base_url: "/"
+url: "http://eic-network.github.io"
+
+twitter_username: eicnetwork
+github_username: eic-network
+
+markdown: kramdown
+
+collections:
+  projects:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+      published: true
+      intro: ""
+      description: ""
+      publications: 
+      - name: Publication One
+        lang: "[DE]"
+        links:
+        - name: Link One
+          url: https://spiegel.de
+      - name: Publication Two
+        lang: "[DE, EN]"
+        links:
+        - name: Link Two
+          url: https://spiegel.de
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      permalink: blog/:title
+      published: true
