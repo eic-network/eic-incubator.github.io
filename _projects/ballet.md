@@ -149,5 +149,18 @@ publications:
   - name: UK Lord paid by offshore linked to Angolan Bank Scandal
     url: https://theblacksea.eu/stories/article/en/sobrinho-boateng
   name: The Black Sea
+team_initiators: |-
+  - for the Turkish cables, initiator was Haznain Kazim.
+  - for the stories on Volkswagen, the initiator is Blaz Zgaga.
+  - for the stories on Airbus, the initiators are Jörg Schmitt, Yann Philippin and Martine Orange.
+  - for the stories called Kazakhgate, the initators are Alain Lallemand and Yann Philippin.
+  - for the far right stories the initiators are Marine Turchi, Stefano Vergine and Sven Becker.
+  - for the stories called Uzbek Leaks, the initiator was Yann Philippin.
+  - for the Isabel do Santos stories the initiator was Micael Pereira.
+  - for the FashionLeaks the initiator was Yann Philippin.
+team_participants: Haznain Kazim, John Hansen, Craig Shaw, Michael Bird, Blaz Zgaga,
+  Jörg Schmitt, Sven Becker, Jürgen Dahlkampf, Yann Philippin, Martine Orange, Marine
+  Turchi, Alain Lallemand, Joel Matriche, Vittorio Malagutti, Stefano Vergine, Micael
+  Pereira, Paula Guisado, Esther Rosenberg, Hanneke Chin.
 ---
 

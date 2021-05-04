@@ -100,6 +100,23 @@ publications:
   - name: EU’s freedom of goods policy opened door to Paris terror attacks
     url: http://www.theblacksea.eu/index.php?idT=88&idC=88&idRec=1230&recType=multimedia
   name: The Black Sea
+team_initiators: |-
+  [DER SPIEGEL](https://magazin.spiegel.de/SP/ausgaben/) (Jörg Schmitt, Jürgen Dahlkampf)
+  and [Le Soir](https://www.lesoir.be/)(Alain Lallemand)
+team_participants: |-
+  **Reporting**
+
+  Andreas Ulrich, Wolf Wiedmann-Schmidt, Der Spiegel; Fabrice Arfi, Karl Laske, Matthieu Suc from Mediapart; John Hansen, Jakob Sheikh, Politiken; Milorad Ivanovic, Newsweek Serbia; Lukas Matzinger, Falter; Irene Velasco, El Mundo; Vlad Odobescu and Michael Bird from The Romanian Centre for Investigative Journalism / The Black Sea
+
+  * Ján Kuciak from Slovakia has contributed to this research.
+
+  **Information Design**
+
+  Pablo Medina, Javier J. Barriocanal and Paula Guisado, El Mundo; Donatien Huet, Mediapart; Jean-Philippe Demonty and Marc Vanderbel, Le Soir; Martin Brinker, Max Heber und Chris Kurt, DER SPIEGEL.
+
+  **Coordination**
+
+  Stefan Candea, RCIJ
 ---
 
 Follow #EICArms for updates
