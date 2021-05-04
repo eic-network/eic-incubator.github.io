@@ -39,6 +39,16 @@ publications:
       млрд рублей в центре Москвы cообщают «Открытые медиа»
     url: https://openmedia.io/investigation/kak-partner-rotenberga-poluchil-dom-yukosa-i-eshhe-chetyre-osobnyaka-cenoj-v-34-mlrd-rublej-v-centre-moskvy/
   name: The Black Sea
-date: '2021-03-01 09:14:22'
+date: '2020-05-22 09:14:22'
+team_initiators: Sebastian Mondial and [DER SPIEGEL](https://magazin.spiegel.de/SP/ausgaben/)
+  (Christoph Winterbach, Rafael Buschmann)
+team_participants: |-
+  **Reporting**
+
+  Manuel Rico, Begoña P. Ramírez (InfoLibre), Craig Shaw, Zeynep Sentek (TBS), Elena Vinogradova, Ilya.Rozhdestvensky (Open Media/TBS), Nikolas Leontopoulos (Reporters United/TBS), Blaž Zgaga (Nacional), Catalin Prisacariu (RCIJ), Dimitri Zufferey (RTS), Sara Wess, Sabrina Winter, Muriel Kalisch, Malte Born (Henri-Nannen-Schule)
+
+  **Material provided by:** [DDoS](https://ddosecrets.com/) (Lorax Horne, Emma Best)
+
+  **Project Guide:** Christoph Winterbach (Der Spiegel)
 ---
 

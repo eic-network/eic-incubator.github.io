@@ -104,5 +104,6 @@ team_participants: |-
   **Project Design & Guide**
 
   Stefan Candea
+date: '2020-10-02 22:53:59'
 ---
 

@@ -117,6 +117,7 @@ team_participants: |-
   **Coordination**
 
   Stefan Candea, RCIJ
+date: '2016-03-18 22:48:00'
 ---
 
 Follow #EICArms for updates

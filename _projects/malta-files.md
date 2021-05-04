@@ -275,6 +275,7 @@ team_participants: "**Reporting:** \n\nAlain Jennotte, Alain Lallemand, Joël Ma
   Vaquero, Isabel González (El Mundo); Donatien Huet (Mediapart)\n\n**Technology:**
   \n\nAlex Morega, Gabriel Vijiala (RCIJ/TBS); Stephan Heffner (DER SPIEGEL); Nicolas
   Barthe-Dejean (Mediapart)\n\n**Project Guide**\n\nStefan Candea, RCIJ/TBS"
+date: '2017-05-19 22:52:00'
 ---
 
 <p>The Malta Files investigative project was undertaken by the network European Investigative Collaborations (EIC), which has brought together 13 media and 49 journalists in 16 countries and 12 languages.</p>

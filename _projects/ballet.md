@@ -162,5 +162,6 @@ team_participants: Haznain Kazim, John Hansen, Craig Shaw, Michael Bird, Blaz Zg
   Jörg Schmitt, Sven Becker, Jürgen Dahlkampf, Yann Philippin, Martine Orange, Marine
   Turchi, Alain Lallemand, Joel Matriche, Vittorio Malagutti, Stefano Vergine, Micael
   Pereira, Paula Guisado, Esther Rosenberg, Hanneke Chin.
+date: '2017-05-04 22:45:00'
 ---
 

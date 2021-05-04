@@ -889,6 +889,7 @@ team_participants: |-
 
   Stefan Candea, RCIJ/TBS
 image: "/assets/images/projects/fl/fl.png"
+date: '2016-12-02 22:52:00'
 ---
 
 For the Football Leaks weekly diggest, [please read this blog post](https://eic.network/blog/football-leaks-revelations-the-first-week-in-summary)

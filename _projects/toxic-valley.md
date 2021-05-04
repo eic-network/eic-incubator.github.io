@@ -70,6 +70,10 @@ publications:
   - name: MPs ask Parliament to investigate the Asbestos Hill
     url: https://theblacksea.eu/stories/the-toxic-valley-project/parliament-investigate-asbestos-hill/
   name: The Black Sea
-date: '2021-03-28 09:13:54'
+date: '2019-09-27 09:13:54'
+team_initiators: "(Zeynep Sentek, Craig Shaw) [The Black Sea](https://theblacksea.eu/)"
+team_participants: "**Reporters:** Zeynep Sentek, Craig Shaw, Mina Eroglu, Elif Alcinkaya
+  (The Black Sea), Dogu Eroglu (Medyascope), Yann Philippin (Mediapart), Jeroen Wester
+  (NRC), Maximilian Popp (Der Spiegel)."
 ---
 

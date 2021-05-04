@@ -96,5 +96,6 @@ team_initiators: Emilie Ekeberg [Danwatch](https://danwatch.dk/en/) with John Ha
 team_participants: Emilie Ekeberg (Danwatch), John Hansen (Politiken), Zeynep Şentek,
   Şebnem Arsu, Margherita Bettoni, Craig Shaw (The Black Sea), Francesca Sironi (L'Espresso),
   Maximilian Popp (Der Spiegel), Hanneke Chin-A-Fo (NRC)
+date: '2018-03-29 22:46:00'
 ---
 

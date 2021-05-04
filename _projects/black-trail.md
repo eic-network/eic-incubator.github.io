@@ -71,5 +71,14 @@ publications:
   links:
   - name: SKREMMES AV ENDRINGER PÅ SVALBARD
     url: https://www.vg.no/nyheter/innenriks/i/lEREnG/skremmes-av-endringene-paa-svalbard
+team_initiators: "[The Black Sea](https://theblacksea.eu/) (Zeynep Şentek, Craig Shaw)
+  and [Expresso](https://expresso.pt/) (Micael Pereira )"
+team_participants: |-
+  **Reporting:**
+  Zeynep Şentek and Craig Shaw (The Black Sea), Micael Pereira (Expresso), Nikolas Leontopoulos, Myrto Boutsi and Alexia Barakou (Reporters United), Julien Chiffelle (RTS), Runa Engen and  Kristoffer Kumar (VG), Margot Gibbs (Finance Uncovered), Marco Carrasqueira and João Lúcio (SIC), David Langan and Giulio Rubino (freelancers).
+
+  **Project Guide:**
+  Ştefan Cândea
+date: '2021-04-30 22:40:48'
 ---
 
