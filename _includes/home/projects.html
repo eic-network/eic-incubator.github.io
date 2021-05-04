@@ -14,7 +14,7 @@
                 <div class="box">
                     <div style="padding: 0 20px; min-height: 450px;">
                         <h4><a href="{{ project.url }}">{{ project.title }}</a></h4>
-                        <p><b>{{  project.intro }}</b>{{ project.description | truncatewords: 100}}</p>
+                        <p><b>{{  project.intro }}</b>{{ project.description | truncatewords: 60 | markdownify}}</p>
                         <a href="{{ project.url }}" class="btn btn-primary">&raquo; more</a>
                     </div>
                 </div>
