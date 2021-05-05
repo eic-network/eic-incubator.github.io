@@ -79,5 +79,6 @@ team_participants: |-
   **Project Guide:**
   Ştefan Cândea
 date: '2021-04-30 22:40:48'
+image: assets/images/projects/Black_Trail_poster.png
 ---
 
