@@ -74,7 +74,6 @@ publications:
 team_initiators: "[The Black Sea](https://theblacksea.eu/) (Zeynep Şentek, Craig Shaw)
   and [Expresso](https://expresso.pt/) (Micael Pereira )"
 team_participants: |-
-  **Participants:**
   Zeynep Şentek and Craig Shaw (The Black Sea), Micael Pereira (Expresso), Nikolas Leontopoulos, Myrto Boutsi and Alexia Barakou (Reporters United), Julien Chiffelle (RTS), Runa Engen and  Kristoffer Kumar (VG), Margot Gibbs (Finance Uncovered), Marco Carrasqueira and João Lúcio (SIC), David Langan and Giulio Rubino (freelancers).
 
   **Project Guide:**
