@@ -15,7 +15,7 @@
   image: le-soir.jpg
 - name: DER SPIEGEL
   url: https://www.spiegel.de/
-  image: spiegel.svg
+  image: der_spiegel.svg
 - name:
   url: https://theblacksea.eu/
   image: tbs.jpg
