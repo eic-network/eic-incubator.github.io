@@ -37,6 +37,19 @@ publications:
     url: https://expresso.pt/sociedade/2021-04-30-Bastidores-do-Black-Trail.-Quem-e-como-se-fez-a-investigacao-sobre-a-industria-de-navegacao-0608912e
   - name: Como matar o planeta e sair impune (veja o documentário na íntegra)
     url: https://expresso.pt/multimedia/video/2021-04-30-Black-Trail.-Como-matar-o-planeta-e-sair-impune--veja-o-documentario-na-integra--c5384c75
+- name: The Black Sea
+  lang: "[EN, TR]"
+  links:
+  - name: The shipping industry is a massive climate polluter. Is it committed to
+      change?
+    url: https://theblacksea.eu/black-trail-project/black-trail/
+- name: RADIO TÉLÉVISION SUISSE
+  lang: "[FR, DE, IT]"
+  links:
+  - name: Le transport maritime, un secteur globalisé aux émissions de CO2 croissantes
+    url: https://www.rts.ch/info/monde/12113834-le-transport-maritime-un-secteur-globalise-aux-emissions-de-co2-croissantes.html
+  - name: 'Transport maritime : Attention pollution !'
+    url: https://www.rts.ch/play/tv/redirect/detail/12115998
 - name: infoLibre
   lang: "[ES]"
   links:
@@ -48,24 +61,11 @@ publications:
   links:
   - name: ''
     url: ''
-- name: RADIO TÉLÉVISION SUISSE
-  lang: "[FR, DE, IT]"
-  links:
-  - name: Le transport maritime, un secteur globalisé aux émissions de CO2 croissantes
-    url: https://www.rts.ch/info/monde/12113834-le-transport-maritime-un-secteur-globalise-aux-emissions-de-co2-croissantes.html
-  - name: 'Transport maritime : Attention pollution !'
-    url: https://www.rts.ch/play/tv/redirect/detail/12115998
 - name: SIC Noticias
   lang: "[PT]"
   links:
   - name: Rasto Negro. A indústria da navegação está a matar o planeta e a sair impune
     url: https://sicnoticias.pt/mundo/2021-04-30-Rasto-Negro.-A-industria-da-navegacao-esta-a-matar-o-planeta-e-a-sair-impune-9ab9e37b
-- name: The Black Sea
-  lang: "[EN, TR]"
-  links:
-  - name: The shipping industry is a massive climate polluter. Is it committed to
-      change?
-    url: https://theblacksea.eu/black-trail-project/black-trail/
 - name: VG
   lang: "[NO]"
   links:
@@ -74,7 +74,7 @@ publications:
 team_initiators: "[The Black Sea](https://theblacksea.eu/) (Zeynep Şentek, Craig Shaw)
   and [Expresso](https://expresso.pt/) (Micael Pereira )"
 team_participants: |-
-  **Reporting:**
+  **Participants:**
   Zeynep Şentek and Craig Shaw (The Black Sea), Micael Pereira (Expresso), Nikolas Leontopoulos, Myrto Boutsi and Alexia Barakou (Reporters United), Julien Chiffelle (RTS), Runa Engen and  Kristoffer Kumar (VG), Margot Gibbs (Finance Uncovered), Marco Carrasqueira and João Lúcio (SIC), David Langan and Giulio Rubino (freelancers).
 
   **Project Guide:**
