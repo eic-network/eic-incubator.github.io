@@ -32,3 +32,7 @@ We believe networks are here to stay. Due to their structure and methodology, co
 EIC is putting together different mind-sets, organization types and skills. This is insuring a flow of new challenges, ideas and approaches. Our aim is to build a European network to focus on independent, high-quality cross-border and European investigative journalism projects.
 
 Our focus areas: (un)organized crime, environment, sport, public spending, corporate corruption, lobby, public health, religious groups, state aid, military & secret services, banks & finance, labor markets, migration.
+
+#### EIC Board 
+
+The Board of EIC works together with the coordinator, Stefan Candea, to advise and decide on EIC partnerships, membership, future developments and the agenda of EIC General Assembly. The Board members are journalists working with the EIC member newsrooms. Current Board is made of Pierre-Yves Warnotte (Le Soir), Nicola Naber (Der Spiegel), Yann Pilippin (Medipart), Zeynep Sentek (The Black Sea), Anne Mette Svane (Politiken) and Clemens Höges (Der Spiegel) who is also the Chair of the Board. Esther Rosenberg (NRC), Alain Lallemand (Le Soir), Jörg Schmitt and Alfred Weinzierl (Der Spiegel) have been part of the Board in the past.
