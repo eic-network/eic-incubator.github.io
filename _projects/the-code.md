@@ -43,6 +43,8 @@ publications:
   links:
   - name: Brussel vernietigt op grote schaal interne correspondentie
     url: https://www.nrc.nl/nieuws/2021/11/12/brussel-vernietigt-op-grote-schaal-interne-correspondentie-a4065129
+  - name: Het stond er echt - geen e-mails aangetroffen. Brussel versnippert bewust informatie
+    url: https://www.nrc.nl/nieuws/2021/11/12/brussel-vernietigt-bewust-e-mails-en-hult-zich-in-duister-a4065269  
   name: NRC
 - lang: "[PT]"
   links:
