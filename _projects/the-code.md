@@ -20,14 +20,12 @@ publications:
   - name: Wie Olaf Scholz Steuertransparenz in der EU blockierte
     url: https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-wie-der-designierte-bundeskanzler-steuertransparenz-in-der-eu-blockierte-a-a6ff926c-806b-463c-9ffc-965dff1b4b44
   - name: EU-Kommission löscht massenhaft Mails – und archiviert Chats erst gar nicht
-      url: https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-droht-aerger-eu-kommission-loescht-massenhaft-mails-und-archiviert-chats-erst-gar-nicht-a-f3ad30fc-4ea4-43d7-a2d0-7767126d8a1d
+    url: https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-droht-aerger-eu-kommission-loescht-massenhaft-mails-und-archiviert-chats-erst-gar-nicht-a-f3ad30fc-4ea4-43d7-a2d0-7767126d8a1d
   name: Der Spiegel
 - lang: "[ES]"
   links:
   - name: Código de (Mala) Conducta: la historia de los 24 años de fracaso europeo en política fiscal
     url: https://www.infolibre.es/noticias/economia/2021/11/12/codigo_mala_conducta_historia_los_anos_fracaso_europeo_politica_fiscal_126518_1011.html
-  - name: Así se fabrica la UE una transparencia a medida: borrado masivo de documentos y archivos ocultos en carpetas personales
-    url: https://www.infolibre.es/noticias/economia/2021/11/10/asi_fabrica_comision_europea_una_transparencia_medida_borrado_masivo_documentos_archivos_ocultos_carpetas_personales_126565_1011.html
   - name: Fiscalidad: el 'arma nuclear' que la Comisión europea aún no quiere utilizar
     url: https://www.infolibre.es/noticias/lo_mejor_mediapart/2021/11/12/fiscalidad_arma_nuclear_que_comision_no_quiere_recurrir_126627_1044.html
   name: infoLibre
@@ -69,3 +67,4 @@ team_participants: |-
   Stefan Candea
 date: '2021-11-12 10:53:59'
 ---
+
