@@ -17,7 +17,6 @@ publications:
     url: https://www.spiegel.de/international/europe/the-eu-s-decades-of-tax-trick-tolerance-a-dcfe7b16-04c8-430a-aa9e-53850405ce78
   - name: The European Commission Deletes Mass Amounts of Emails and Doesn't Archive Chats
     url: https://www.spiegel.de/international/europe/a-new-controversy-erupts-around-ursula-von-der-leyen-s-text-messages-a-6510951f-e8dc-4468-a0af-2ecd60e77ed9
-  name: Der Spiegel
   - name: Wie Olaf Scholz Steuertransparenz in der EU blockierte
     url: https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-wie-der-designierte-bundeskanzler-steuertransparenz-in-der-eu-blockierte-a-a6ff926c-806b-463c-9ffc-965dff1b4b44
   - name: EU-Kommission löscht massenhaft Mails – und archiviert Chats erst gar nicht
