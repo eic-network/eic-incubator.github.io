@@ -56,7 +56,8 @@ publications:
   - name: Sverige värnar alltid storföretagen
     url: https://www.dn.se/sverige/pia-gripenberg-sverige-varnar-alltid-storforetagen/
   name: Dagens Nyheter
-team_initiators: [DER SPIEGEL](https://www.spiegel.de/)(Markus Becker)
+team_initiators: |-
+  [DER SPIEGEL](https://www.spiegel.de/)(Markus Becker)
 team_participants: |-
   **Reporting**
 
