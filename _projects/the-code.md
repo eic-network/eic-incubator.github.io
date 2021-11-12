@@ -24,7 +24,6 @@ publications:
     url: https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-wie-der-designierte-bundeskanzler-steuertransparenz-in-der-eu-blockierte-a-a6ff926c-806b-463c-9ffc-965dff1b4b44
   - name: EU-Kommission löscht massenhaft Mails – und archiviert Chats erst gar nicht
       url: https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-droht-aerger-eu-kommission-loescht-massenhaft-mails-und-archiviert-chats-erst-gar-nicht-a-f3ad30fc-4ea4-43d7-a2d0-7767126d8a1d
-    name: Der Spiegel
   name: Der Spiegel
 - lang: "[ES]"
   links:
