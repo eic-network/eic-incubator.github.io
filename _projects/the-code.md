@@ -66,4 +66,3 @@ team_participants: |-
 
   Stefan Candea
 date: '2021-11-12 10:53:59'
----
