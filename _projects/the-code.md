@@ -31,6 +31,8 @@ publications:
     url: https://www.infolibre.es/noticias/lo_mejor_mediapart/2021/11/12/fiscalidad_arma_nuclear_que_comision_no_quiere_recurrir_126627_1044.html
   - name: El Código de Conducta de la UE declaró abusivos nueve incentivos fiscales españoles
     url: https://www.infolibre.es/noticias/economia/2021/11/13/el_codigo_conducta_declaro_abusivos_nueve_incentivos_fiscales_espanoles_los_que_seis_fueron_creados_por_las_haciendas_vascas_navarra_126632_1011.html?
+  - name: "Alemania y Francia frenan en el Código de Conducta la publicación de los pactos fiscales de Gobiernos y multinacionales"
+    url: https://www.infolibre.es/noticias/economia/2021/11/13/alemania_francia_estan_frenando_codigo_conducta_publicacion_los_acuerdos_fiscales_los_gobiernos_con_las_multinacionales_126674_1011.html
   name: infoLibre
 - lang: "[FR, EN, ES]"
   links:
