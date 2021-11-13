@@ -29,6 +29,8 @@ publications:
     url: https://www.infolibre.es/noticias/economia/2021/11/10/asi_fabrica_comision_europea_una_transparencia_medida_borrado_masivo_documentos_archivos_ocultos_carpetas_personales_126565_1011.html
   - name: Fiscalidad - el 'arma nuclear' que la Comisión europea aún no quiere utilizar
     url: https://www.infolibre.es/noticias/lo_mejor_mediapart/2021/11/12/fiscalidad_arma_nuclear_que_comision_no_quiere_recurrir_126627_1044.html
+  - name: El Código de Conducta de la UE declaró abusivos nueve incentivos fiscales españoles
+    url: https://www.infolibre.es/noticias/economia/2021/11/13/el_codigo_conducta_declaro_abusivos_nueve_incentivos_fiscales_espanoles_los_que_seis_fueron_creados_por_las_haciendas_vascas_navarra_126632_1011.html?
   name: infoLibre
 - lang: "[FR, EN, ES]"
   links:
