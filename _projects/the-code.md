@@ -57,6 +57,8 @@ publications:
     url: https://www.dn.se/sverige/sverige-stoppade-insyn-i-eus-jakt-pa-skatteparadis/
   - name: Sverige värnar alltid storföretagen
     url: https://www.dn.se/sverige/pia-gripenberg-sverige-varnar-alltid-storforetagen/
+  - name: Spotifys vd ville stoppa skatt – bjöds in av Andersson
+    url: https://www.dn.se/sverige/spotifys-vd-ville-stoppa-skatt-bjods-in-av-andersson/  
   name: Dagens Nyheter
 team_initiators: |-
   [DER SPIEGEL](https://www.spiegel.de/)(Markus Becker)
