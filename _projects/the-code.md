@@ -33,6 +33,8 @@ publications:
     url: https://www.infolibre.es/noticias/economia/2021/11/13/el_codigo_conducta_declaro_abusivos_nueve_incentivos_fiscales_espanoles_los_que_seis_fueron_creados_por_las_haciendas_vascas_navarra_126632_1011.html?
   - name: "Alemania y Francia frenan en el Código de Conducta la publicación de los pactos fiscales de Gobiernos y multinacionales"
     url: https://www.infolibre.es/noticias/economia/2021/11/13/alemania_francia_estan_frenando_codigo_conducta_publicacion_los_acuerdos_fiscales_los_gobiernos_con_las_multinacionales_126674_1011.html
+  - name: España libró una guerra feroz contra la piratería fiscal de Gibraltar en el órgano más opaco de la UE
+    url: https://www.infolibre.es/noticias/economia/2021/11/12/espana_libro_una_guerra_feroz_contra_pirateria_fiscal_gibraltar_organo_mas_opaco_ue_126570_1011.html 
   name: infoLibre
 - lang: "[FR, EN, ES]"
   links:
@@ -42,6 +44,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/121121/la-commission-europeenne-une-conception-tres-particuliere-de-la-transparence
   - name: Fiscalité - l’« arme nucléaire » que la Commission se refuse encore à dégainer
     url: https://www.mediapart.fr/journal/international/121121/fiscalite-l-arme-nucleaire-que-la-commission-se-refuse-encore-degainer
+  - name: Le juriste Martijn Nouwen - « La lutte contre l’évasion fiscale n’était en général pas la priorité des ministres »
+    url: https://www.mediapart.fr/journal/international/131121/le-juriste-martijn-nouwen-la-lutte-contre-l-evasion-fiscale-n-etait-en-general-pas-la-priorite-des#at_medium=custom7&at_campaign=1047
   name: Mediapart
 - lang: "[NL]"
   links:
@@ -54,6 +58,8 @@ publications:
   links:
   - name: Milhares de documentos expõem organismo da UE que vigia concorrência fiscal desleal
     url: https://expresso.pt/economia/2021-11-12-Milhares-de-documentos-expoem-organismo-da-UE-que-vigia-concorrencia-fiscal-desleal-aa35c21c
+  - name: Incentivo de €39 milhões no radar de Bruxelas
+    url: https://leitor.expresso.pt/semanario/semanario2559/html/economia/temas/incentivo-de-39-milhoes-no-radar-de-bruxelas 
   name: Expresso
 - lang: "[SE]"
   links:
