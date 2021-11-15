@@ -20,6 +20,8 @@ publications:
     url: https://www.spiegel.de/politik/deutschland/olaf-scholz-spd-wie-der-designierte-bundeskanzler-steuertransparenz-in-der-eu-blockierte-a-a6ff926c-806b-463c-9ffc-965dff1b4b44
   - name: EU-Kommission löscht massenhaft Mails – und archiviert Chats erst gar nicht
     url: https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-droht-aerger-eu-kommission-loescht-massenhaft-mails-und-archiviert-chats-erst-gar-nicht-a-f3ad30fc-4ea4-43d7-a2d0-7767126d8a1d
+  - name: »Die Minister blickten oft nicht durch«
+    url: https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen-a-4bb825b1-38ba-4b2d-bdde-5fea3fddc22c?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph
   name: Der Spiegel
 - lang: "[ES]"
   links:
@@ -34,7 +36,9 @@ publications:
   - name: "Alemania y Francia frenan en el Código de Conducta la publicación de los pactos fiscales de Gobiernos y multinacionales"
     url: https://www.infolibre.es/noticias/economia/2021/11/13/alemania_francia_estan_frenando_codigo_conducta_publicacion_los_acuerdos_fiscales_los_gobiernos_con_las_multinacionales_126674_1011.html
   - name: España libró una guerra feroz contra la piratería fiscal de Gibraltar en el órgano más opaco de la UE
-    url: https://www.infolibre.es/noticias/economia/2021/11/12/espana_libro_una_guerra_feroz_contra_pirateria_fiscal_gibraltar_organo_mas_opaco_ue_126570_1011.html 
+    url: https://www.infolibre.es/noticias/economia/2021/11/12/espana_libro_una_guerra_feroz_contra_pirateria_fiscal_gibraltar_organo_mas_opaco_ue_126570_1011.html
+  - name: Repsol consiguió unos beneficios fiscales de 100 millones de euros gracias a unas deducciones reprobadas por Bruselas
+    url: https://www.infolibre.es/noticias/economia/2021/11/15/repsol_consiguio_unos_beneficios_fiscales_100_millones_euros_gracias_unas_deducciones_reprobadas_por_bruselas_126578_1011.html
   name: infoLibre
 - lang: "[FR, EN, ES]"
   links:
