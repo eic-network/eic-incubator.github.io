@@ -22,6 +22,8 @@ publications:
     url: https://www.spiegel.de/politik/deutschland/ursula-von-der-leyen-droht-aerger-eu-kommission-loescht-massenhaft-mails-und-archiviert-chats-erst-gar-nicht-a-f3ad30fc-4ea4-43d7-a2d0-7767126d8a1d
   - name: »Die Minister blickten oft nicht durch«
     url: https://www.spiegel.de/politik/deutschland/eu-steueroasen-die-minister-blickten-oft-nicht-durch-sagt-martijn-nouwen-a-4bb825b1-38ba-4b2d-bdde-5fea3fddc22c?sara_ecid=soci_upd_KsBF0AFjflf0DZCxpPYDCQgO1dEMph
+  - name: »Finance Ministers Often Couldn't See Through Them«
+    url: https://www.spiegel.de/international/world/tax-havens-in-europa-finance-ministers-often-couldn-t-see-through-them-a-d06f7761-eb3a-4a65-94a5-900912f47dc9
   name: Der Spiegel
 - lang: "[ES]"
   links:
@@ -39,6 +41,8 @@ publications:
     url: https://www.infolibre.es/noticias/economia/2021/11/12/espana_libro_una_guerra_feroz_contra_pirateria_fiscal_gibraltar_organo_mas_opaco_ue_126570_1011.html
   - name: Repsol consiguió unos beneficios fiscales de 100 millones de euros gracias a unas deducciones reprobadas por Bruselas
     url: https://www.infolibre.es/noticias/economia/2021/11/15/repsol_consiguio_unos_beneficios_fiscales_100_millones_euros_gracias_unas_deducciones_reprobadas_por_bruselas_126578_1011.html
+  - name: Andorra eliminó dos regímenes fiscales perniciosos y modificó otros dos para salir de la lista de paraísos fiscales de la UE
+    url: https://www.infolibre.es/noticias/economia/2021/11/16/andorra_elimino_dos_regimenes_fiscales_perniciosos_modifico_otros_dos_para_salir_lista_paraisos_fiscales_ue_126589_1011.html
   name: infoLibre
 - lang: "[FR, EN, ES]"
   links:
