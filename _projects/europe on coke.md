@@ -19,6 +19,7 @@ publications:
   - name: Une cocaïne de plus en plus pure inonde le marché suisse
     url: https://www.tdg.ch/lematindimanche/cocaine-plus-pure-inonde-marche-suisse/story/16456448
   name: Tamedia
+  url: https://www.tdg.ch
 - lang: "[NL]"
   links:
   - name: "‘Het is een veelkoppig monster. Hak een kop af en er komt een bij’"
