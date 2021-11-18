@@ -17,6 +17,7 @@ publications:
   - name: Schüsse auf Flüchtlinge
     url: https://magazin.spiegel.de/SP/2018/13/156458031/index.html?utm_source=spon&utm_campaign=centerpage
   name: Der Spiegel
+  url: https://spiegel.de
 - lang: "[PT]"
   links:
   - name: Europa está a pagar à Turquia para que os sírios não fujam da guerra
