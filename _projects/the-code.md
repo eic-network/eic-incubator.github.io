@@ -25,6 +25,7 @@ publications:
   - name: »Finance Ministers Often Couldn't See Through Them«
     url: https://www.spiegel.de/international/world/tax-havens-in-europa-finance-ministers-often-couldn-t-see-through-them-a-d06f7761-eb3a-4a65-94a5-900912f47dc9
   name: Der Spiegel
+  url: https://www.spiegel.de/
 - lang: "[ES]"
   links:
   - name: Código de (Mala) Conducta - la historia de los 24 años de fracaso europeo en política fiscal
