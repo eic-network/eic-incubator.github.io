@@ -58,6 +58,12 @@ publications:
   links:
   - name: De hold-up op Congo - hoe de clan-Kabila 122 miljoen stal van de staat
     url: https://www.standaard.be/cnt/dmf20211119_05012212
+  - name: Onderzoek zet president Tshisekedi onder druk om corruptie aan te pakken
+    url: https://www.standaard.be/cnt/dmf20211119_94266057
+  - name: De Standaard gaat aan de slag met het grootste datalek ooit uit Afrika
+    url: https://www.standaard.be/cnt/dmf20211119_94242606
+  - name: Premier reageert op Congo hold-up - ‘Dit moet huidige president helpen in strijd tegen corruptie’
+    url: https://www.standaard.be/cnt/dmf20211119_95552902
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
