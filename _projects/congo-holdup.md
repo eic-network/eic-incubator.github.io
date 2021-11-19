@@ -38,16 +38,16 @@ publications:
   url: https://www.spiegel.de/
 - lang: "[ES]"
   links:
-  - name:
-    url:
-  name: infoLibre
-  url: https://www.infolibre.es/
-- lang: "[PT]"
-  links:
   - name: El clan del expresidente Kabila utilizó un banco para saquear las arcas del Estado en uno de los países más pobres del mundo
     url: https://www.infolibre.es/noticias/lo_mejor_mediapart/2021/11/20/el_clan_del_expresidente_kabila_utilizo_banco_bgfi_para_saquear_140_millones_dolares_fondos_publicos_uno_los_paises_mas_pobres_del_mundo_126902_1044.html
   - name: La mayor filtración de documentos de África revela cómo Kabila y el BGFI encubrieron la corrupción endémica en Congo
     url: https://www.infolibre.es/noticias/economia/2021/11/22/la_mayor_filtracion_documentos_financieros_africa_126890_1011.html
+  name: infoLibre
+  url: https://www.infolibre.es/
+- lang: "[PT]"
+  links:
+ - name:
+    url:
   name: Expresso
   url: https://expresso.pt
 - lang: "[NL]"
@@ -107,14 +107,16 @@ publications:
   url: https://www.rfi.fr/
 - lang: "[FR]"
   links:
+  - name: Qu’est-ce que « Congo hold-up », la plus grosse fuite de données financières d’Afrique ?
+    url: https://www.lorientlejour.com/article/1282115/quest-ce-que-congo-hold-up-la-plus-grosse-fuite-de-donnees-financieres-dafrique-.html
   - name:
     url: 
   name: L'Orient le Jour
   url: https://www.lorientlejour.com/
 - lang: "[EN]"
   links:
-  - name: Qu’est-ce que « Congo hold-up », la plus grosse fuite de données financières d’Afrique ?
-    url: https://www.lorientlejour.com/article/1282115/quest-ce-que-congo-hold-up-la-plus-grosse-fuite-de-donnees-financieres-dafrique-.html
+   - name:
+    url: 
   name: BBC Africa Eye
   url: https://www.bbc.com/
 - lang: "[FO]"
