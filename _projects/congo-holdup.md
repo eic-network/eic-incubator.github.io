@@ -48,8 +48,8 @@ publications:
   url: https://www.infolibre.es/
 - lang: "[PT]"
   links:
-  - name: 
-    url: 
+  - name: A máquina de dinheiro dos clãs Bongo e Kabila
+    url: https://expresso.pt/internacional/2021-11-19-A-maquina-de-dinheiro-dos-clas-Bongo-e-Kabila-b10c3f34
   - name: 
     url: 
   name: Expresso
