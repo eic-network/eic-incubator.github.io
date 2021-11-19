@@ -109,8 +109,6 @@ publications:
   links:
   - name: Qu’est-ce que « Congo hold-up », la plus grosse fuite de données financières d’Afrique ?
     url: https://www.lorientlejour.com/article/1282115/quest-ce-que-congo-hold-up-la-plus-grosse-fuite-de-donnees-financieres-dafrique-.html
-  - name:
-    url: 
   name: L'Orient le Jour
   url: https://www.lorientlejour.com/
 - lang: "[EN]"
