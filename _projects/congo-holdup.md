@@ -149,20 +149,6 @@ publications:
     url: https://www.pplaaf.org/2021/11/19/congo-holdup-leak.html
   name: PPLAAF
   url: https://www.pplaaf.org/
-- lang: "[FR, DE]"
-  links:
-  - name: Riesiges Datenleck zeigt systematische Veruntreuungen durch Kabila-Clan
-    url:  https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/ueberfall-auf-den-kongo-riesiges-datenleck-zeigt-systematische-veruntreuungen-durch-kabila-clan
-  - name: Dans les rouages du plus grand détournement d’Afrique centrale
-    url: https://www.publiceye.ch/fr/coin-medias/communiques-de-presse/detail/congo-hold-up-dans-les-rouages-du-plus-grand-detournement-dafrique-centrale
-  name: Public Eye
-  url: https://www.publiceye.ch/
-- lang: "[EN]"
-  links:
-  - name: Embezzled Empire
-    url: https://thesentry.org/reports/embezzled-empire/
-  name: The Sentry
-  url: https://thesentry.org/
 - lang: "[FR]"
   links:
   - name:
