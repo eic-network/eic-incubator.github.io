@@ -91,20 +91,22 @@ publications:
   url: https://www.bloomberg.com/
 - lang: "[FR]"
   links:
-  - name:
-    url:
+  - name: Congo Hold-up - la plus importante fuite de documents bancaires d’Afrique
+    url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-la-plus-importante-fuite-de-documents-bancaires-d-afrique
+  - name: Congo Hold-up - Sud Oil, la siphonneuse du premier cercle de Joseph Kabila
+    url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-sud-oil-la-siphonneuse-du-premier-cercle-de-joseph-kabila
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
   links:
   - name:
-    url:
+    url: 
   name: L'Orient le Jour
   url: https://www.lorientlejour.com/
 - lang: "[EN]"
   links:
-  - name:
-    url:
+  - name: Qu’est-ce que « Congo hold-up », la plus grosse fuite de données financières d’Afrique ?
+    url: https://www.lorientlejour.com/article/1282115/quest-ce-que-congo-hold-up-la-plus-grosse-fuite-de-donnees-financieres-dafrique-.html
   name: BBC Africa Eye
   url: https://www.bbc.com/
 - lang: "[FO]"
