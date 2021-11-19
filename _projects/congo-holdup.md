@@ -35,7 +35,7 @@ publications:
   - name: Wie der Kabila-Clan Kongos Staatskasse plünderte
     url: https://www.spiegel.de/ausland/kongo-wie-der-kabila-clan-die-staatskasse-pluenderte-eine-bank-eine-briefkastenfirma-und-ein-ueberfall-a-6e71d52a-6faa-47a8-877b-a563653d0207?context=issue
   - name:
-    url: https://www.spiegel.de/ausland/kongo-wie-der-kabila-clan-die-staatskasse-pluenderte-eine-bank-eine-briefkastenfirma-und-ein-ueberfall-a-6e71d52a-6faa-47a8-877b-a563653d0207
+    url: 
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[ES]"
