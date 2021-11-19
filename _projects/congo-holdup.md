@@ -74,8 +74,8 @@ publications:
   url: https://www.lesoir.be/
 - lang: "[DK]"
   links:
-  - name:
-    url:
+  - name: Sådan blev et af verdens fattigste lande udplyndret af præsidenten
+    url: https://politiken.dk/udland/art8483943/S%C3%A5dan-blev-et-af-verdens-fattigste-lande-udplyndret-af-pr%C3%A6sidenten
   name: Politiken
   url: https://politiken.dk/
 - lang: "[NO]"
