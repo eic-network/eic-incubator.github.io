@@ -60,7 +60,7 @@ publications:
     url: https://www.lesoir.be/407344/article/2021-11-19/congo-hold-la-plus-grande-fuite-de-donnees-du-continent-africain
   - name: Podcast - Congo Hold-up, un «leak» pas comme les autres
     url: https://www.lesoir.be/407357/article/2021-11-19/podcast-congo-hold-un-leak-pas-comme-les-autres
-  - name: Dossiers: Congo Hold-up
+  - name: Dossiers - Congo Hold-up
     url: https://www.lesoir.be/340772/sections/congo-hold
   - name: Le clan Kabila a détourné au moins 138 millions de dollars de fonds publics
     url: https://www.lesoir.be/407338/article/2021-11-19/congo-hold-le-clan-kabila-detourne-au-moins-138-millions-de-dollars-de-fonds
