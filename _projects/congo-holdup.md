@@ -159,16 +159,14 @@ publications:
   url: https://www.publiceye.ch/
 - lang: "[EN]"
   links:
-  - name: 
-    url: 
-  - name: 
-    url: 
+  - name: Embezzled Empire
+    url: https://thesentry.org/reports/embezzled-empire/
   name: The Sentry
   url: https://thesentry.org/
 - lang: "[FR]"
   links:
-  - name: Embezzled Empire
-    url: https://thesentry.org/reports/embezzled-empire/
+  - name: 
+    url: 
   name: Resource Matters
   url: https://resourcematters.org/
 - lang: "[EN]"
