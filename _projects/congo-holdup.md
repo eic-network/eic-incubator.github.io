@@ -88,7 +88,7 @@ publications:
   links:
   - name:
     url:
-  name: National
+  name: Nacional
   url: https://nacional.hr/
 - lang: "[RO]"
   links:
