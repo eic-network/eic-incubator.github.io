@@ -50,8 +50,8 @@ publications:
   url: https://expresso.pt
 - lang: "[NL]"
   links:
-  - name:
-    url:
+  - name: De hold-up op Congo: hoe de clan-Kabila 122 miljoen stal van de staat
+    url: https://www.standaard.be/cnt/dmf20211119_05012212
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
@@ -135,6 +135,8 @@ publications:
   links:
   - name: Congo Hold-up
     url: https://congoholdup.com/
+  - name: Africa's biggest leak 
+    url: https://www.pplaaf.org/2021/11/19/congo-holdup-leak.html
   name: PPLAAF
   url: https://www.pplaaf.org/
 - lang: "[EN, FR]"
