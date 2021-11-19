@@ -166,7 +166,7 @@ publications:
   name: Congo Research Group
   url: http://congoresearchgroup.org/
 team_initiators: |-
-  [Mediapart](https://www.mediapart.fr)(Yann Philippin) and [PPLAAF](https://www.pplaaf.org/)(Henri Thulliez)
+  [Mediapart](https://www.mediapart.fr) (Yann Philippin) and [PPLAAF](https://www.pplaaf.org/) (Henri Thulliez)
 team_participants: |-
   **Reporting**
 
