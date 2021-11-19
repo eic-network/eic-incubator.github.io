@@ -20,7 +20,7 @@ publications:
     url: https://www.mediapart.fr/journal/international/191121/la-bgfi-banque-de-la-francafrique-au-coeur-du-scandale
   - name: Le plus grand « leak » d’Afrique dévoile les secrets financiers du Congo
     url: https://www.mediapart.fr/journal/international/191121/le-plus-grand-leak-d-afrique-devoile-les-secrets-financiers-du-congo
-  - name: Vidéo : piller son propre pays, mode d’emploi
+  - name: Vidéo - piller son propre pays, mode d’emploi
     url: https://www.mediapart.fr/journal/france/191121/video-piller-son-propre-pays-mode-d-emploi
   name: Mediapart
   url: https://www.mediapart.fr
