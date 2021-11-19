@@ -24,8 +24,8 @@ publications:
     url:
   - name:
     url:
-  - name: NRC
-    url: https://www.nrc.nl
+  name: NRC
+  url: https://www.nrc.nl
 - lang: "[DE, EN]"
   links:
   - name:
