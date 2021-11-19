@@ -111,14 +111,14 @@ publications:
   url: https://www.rfi.fr/
 - lang: "[FR]"
   links:
-  - name:
-    url: 
+  - name:  Qu’est-ce que « Congo hold-up », la plus grosse fuite de données financières d’Afrique ?
+    url: https://www.lorientlejour.com/article/1282115/quest-ce-que-congo-hold-up-la-plus-grosse-fuite-de-donnees-financieres-dafrique-.html
   name: L'Orient le Jour
   url: https://www.lorientlejour.com/
 - lang: "[EN]"
   links:
-  - name: Qu’est-ce que « Congo hold-up », la plus grosse fuite de données financières d’Afrique ?
-    url: https://www.lorientlejour.com/article/1282115/quest-ce-que-congo-hold-up-la-plus-grosse-fuite-de-donnees-financieres-dafrique-.html
+  - name:
+    url: 
   name: BBC Africa Eye
   url: https://www.bbc.com/
 - lang: "[FO]"
