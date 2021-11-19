@@ -14,7 +14,7 @@ description: |-
 publications:
 - lang: "[FR, EN, ES]"
   links:
-  - name: Congo hold-up : comment le clan Kabila a détourné 138 millions de dollars
+  - name: Congo hold-up - comment le clan Kabila a détourné 138 millions de dollars
     url: https://www.mediapart.fr/journal/international/191121/congo-hold-comment-le-clan-kabila-detourne-138-millions-de-dollars
   - name: La BGFI, banque de la Françafrique au cœur du scandale
     url: https://www.mediapart.fr/journal/international/191121/la-bgfi-banque-de-la-francafrique-au-coeur-du-scandale
