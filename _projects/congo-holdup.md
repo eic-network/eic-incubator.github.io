@@ -93,8 +93,8 @@ publications:
   name: Centrul Român pentru Jurnalism de Investigație
 - lang: "[EN]"
   links:
-  - name:
-    url: 
+  - name: Biggest African Bank Leak Shows Kabila Allies Looted Congo Funds
+    url: https://www.bloomberg.com/news/articles/2021-11-19/biggest-african-bank-leak-shows-ex-congo-president-s-allies-looted-state?sref=QcYdzgGl
   name: Bloomberg
   url: https://www.bloomberg.com/
 - lang: "[FR]"
@@ -155,10 +155,12 @@ publications:
     url:
   name: Public Eye
   url: https://www.publiceye.ch/
-- lang: "[EN]"
+- lang: "[EN, FR, DE]"
   links:
-  - name:
-    url:
+  - name: Riesiges Datenleck zeigt systematische Veruntreuungen durch Kabila-Clan
+    url: https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/ueberfall-auf-den-kongo-riesiges-datenleck-zeigt-systematische-veruntreuungen-durch-kabila-clan
+  - name: Dans les rouages du plus grand détournement d’Afrique centrale
+    url: https://www.publiceye.ch/fr/coin-medias/communiques-de-presse/detail/congo-hold-up-dans-les-rouages-du-plus-grand-detournement-dafrique-centrale
   name: The Sentry
   url: https://thesentry.org/
 - lang: "[FR]"
