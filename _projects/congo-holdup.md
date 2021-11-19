@@ -167,8 +167,8 @@ publications:
   url: https://thesentry.org/
 - lang: "[FR]"
   links:
-  - name:
-    url:
+  - name: Embezzled Empire
+    url: https://thesentry.org/reports/embezzled-empire/
   name: Resource Matters
   url: https://resourcematters.org/
 - lang: "[EN]"
