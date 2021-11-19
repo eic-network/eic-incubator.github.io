@@ -149,7 +149,7 @@ publications:
     url: https://www.pplaaf.org/2021/11/19/congo-holdup-leak.html
   name: PPLAAF
   url: https://www.pplaaf.org/
-- lang: "[EN, FR, DE]"
+- lang: "[FR, DE]"
   links:
   - name: Riesiges Datenleck zeigt systematische Veruntreuungen durch Kabila-Clan
     url:  https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/ueberfall-auf-den-kongo-riesiges-datenleck-zeigt-systematische-veruntreuungen-durch-kabila-clan
