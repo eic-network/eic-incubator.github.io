@@ -8,7 +8,7 @@ description: |-
 
   More than 2.500 documents have been the basis of this project. They have been shared with EIC by [Martijn Nouwen](https://www.universiteitleiden.nl/en/staffmembers/martijn-nouwen) who obtained the documents using FOIA requests during his PhD research, after several years of fighting with the EU bureaucracy.  
 
-  For the first time, it is now possible to trace how the EU is failing in its fight against tax competition - to the detriment of many millions of taxpayers. EIC.network will make all these documents available in the days after the publication.
+  For the first time, it is now possible to trace how the EU is failing in its fight against tax competition - to the detriment of many millions of taxpayers. EIC.network will make all these documents available. We are  ready to share the collection of the source documents to media and organizations doing investigative research in the public interest. [Get in touch!](https://eic.network/#contact)
 publications:
 - lang: "[DE, EN]"
   links:
@@ -62,6 +62,8 @@ publications:
     url: https://www.nrc.nl/nieuws/2021/11/12/brussel-vernietigt-op-grote-schaal-interne-correspondentie-a4065129
   - name: Het stond er echt - geen e-mails aangetroffen. Brussel versnippert bewust informatie
     url: https://www.nrc.nl/nieuws/2021/11/12/brussel-vernietigt-bewust-e-mails-en-hult-zich-in-duister-a4065269  
+  - name: Europese Commissie hoort transparant te zijn
+    url: https://www.nrc.nl/nieuws/2021/11/19/europese-commissie-hoort-transparant-te-zijn-a4066065
   name: NRC
 - lang: "[PT]"
   links:
