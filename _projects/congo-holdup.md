@@ -117,9 +117,9 @@ publications:
   url: https://www.lorientlejour.com/
 - lang: "[EN]"
   links:
-  - name:
-    url: 
-  name: BBC Africa Eye
+  - name: DR Congo data leak - Millions transferred to Joseph Kabila allies
+    url: https://www.bbc.com/news/world-africa-59343922
+  name: BBC
   url: https://www.bbc.com/
 - lang: "[FO]"
   links:
