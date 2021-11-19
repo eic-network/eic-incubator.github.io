@@ -50,7 +50,7 @@ publications:
   url: https://expresso.pt
 - lang: "[NL]"
   links:
-  - name: De hold-up op Congo: hoe de clan-Kabila 122 miljoen stal van de staat
+  - name: De hold-up op Congo - hoe de clan-Kabila 122 miljoen stal van de staat
     url: https://www.standaard.be/cnt/dmf20211119_05012212
   name: De Standaard
   url: https://www.standaard.be/
