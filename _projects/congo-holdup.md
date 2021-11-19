@@ -190,7 +190,7 @@ team_participants: |-
 
   **Project Design & Guide**
 
-  Stefan Candea
+  [Stefan Candea](https://ro.linkedin.com/in/stefan-candea-43ab8819)
 
 date: '2021-11-19 12:00:01'
 ---
