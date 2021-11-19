@@ -56,8 +56,14 @@ publications:
   url: https://www.standaard.be/
 - lang: "[FR]"
   links:
-  - name:
-    url:
+  - name: Congo Hold-up, la plus grande fuite de données du continent africain
+    url: https://www.lesoir.be/407344/article/2021-11-19/congo-hold-la-plus-grande-fuite-de-donnees-du-continent-africain
+  - name: Podcast - Congo Hold-up, un «leak» pas comme les autres
+    url: https://www.lesoir.be/407357/article/2021-11-19/podcast-congo-hold-un-leak-pas-comme-les-autres
+  - name: Dossiers: Congo Hold-up
+    url: https://www.lesoir.be/340772/sections/congo-hold
+  - name: Le clan Kabila a détourné au moins 138 millions de dollars de fonds publics
+    url: https://www.lesoir.be/407338/article/2021-11-19/congo-hold-le-clan-kabila-detourne-au-moins-138-millions-de-dollars-de-fonds
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
@@ -80,13 +86,13 @@ publications:
   url: https://nacional.hr/
 - lang: "[RO]"
   links:
-  - name:
-    url:
+  - name: Legăturile României cu „banca mafiei” lui Kabila 
+    url: https://newsweek.ro/investigatii/congo-hold-up-legaturile-romaniei-cu-banca-mafiei-lui-kabila
   name: Centrul Român pentru Jurnalism de Investigație
 - lang: "[EN]"
   links:
   - name:
-    url:
+    url: 
   name: Bloomberg
   url: https://www.bloomberg.com/
 - lang: "[FR]"
