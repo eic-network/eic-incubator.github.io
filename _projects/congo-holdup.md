@@ -14,16 +14,20 @@ description: |-
 publications:
 - lang: "[FR, EN, ES]"
   links:
-  - name:
-    url:
+  - name: Congo hold-up : comment le clan Kabila a détourné 138 millions de dollars
+    url: https://www.mediapart.fr/journal/international/191121/congo-hold-comment-le-clan-kabila-detourne-138-millions-de-dollars
+  - name: La BGFI, banque de la Françafrique au cœur du scandale
+    url: https://www.mediapart.fr/journal/international/191121/la-bgfi-banque-de-la-francafrique-au-coeur-du-scandale
+  - name: Le plus grand « leak » d’Afrique dévoile les secrets financiers du Congo
+    url: https://www.mediapart.fr/journal/international/191121/le-plus-grand-leak-d-afrique-devoile-les-secrets-financiers-du-congo
+  - name: Vidéo : piller son propre pays, mode d’emploi
+    url: https://www.mediapart.fr/journal/france/191121/video-piller-son-propre-pays-mode-d-emploi
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
   links:
-  - name:
-    url:
-  - name:
-    url:
+  - name: Congolese bank trekt fout geld uit de hele wereld
+    url: https://www.nrc.nl/nieuws/2021/11/19/congolese-bank-trekt-fout-geld-uit-de-hele-wereld-a4066011
   name: NRC
   url: https://www.nrc.nl
 - lang: "[DE, EN]"
