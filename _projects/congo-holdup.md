@@ -181,8 +181,8 @@ publications:
   url: https://resourcematters.org/
 - lang: "[EN]"
   links:
-  - name:
-    url:
+  - name: THE PRESIDENT’S BANK - SUD OIL, KWANZA CAPITAL, AND THE KABILA FAMILY
+    url: https://congoresearchgroup.org/the-presidents-banksud-oil-kwanza-capital-and-the-kabila-family/
   name: Congo Research Group
   url: http://congoresearchgroup.org/
 team_initiators: |-
