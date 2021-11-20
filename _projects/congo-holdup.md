@@ -113,6 +113,10 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-la-plus-importante-fuite-de-documents-bancaires-d-afrique
   - name: Congo Hold-up - Sud Oil, la siphonneuse du premier cercle de Joseph Kabila
     url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-sud-oil-la-siphonneuse-du-premier-cercle-de-joseph-kabila
+  - name: BGFIBank, la banque des présidents
+    url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-bgfibank-la-banque-des-présidents
+  - name: Comment l’ONG The Sentry a pu tracer l’argent de la famille Kabila 
+    url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-comment-l-ong-the-sentry-a-pu-tracer-l-argent-des-kabilas
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
