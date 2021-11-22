@@ -82,6 +82,10 @@ publications:
     url: https://www.lesoir.be/407338/article/2021-11-19/congo-hold-le-clan-kabila-detourne-au-moins-138-millions-de-dollars-de-fonds
   - name: Les deux millions suspects du régime Kabila à George Forrest
     url: https://www.lesoir.be/407714/article/2021-11-22/congo-hold-les-deux-millions-suspects-du-regime-kabila-george-forrest
+  - name: L’histoire secrète du scandale Egal
+    url: https://www.lesoir.be/407803/article/2021-11-22/congo-hold-lhistoire-secrete-du-scandale-egal
+  - name: La caisse noire de la Banque centrale du Congo
+    url: https://www.lesoir.be/407801/article/2021-11-22/congo-hold-la-caisse-noire-de-la-banque-centrale-du-congo
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
