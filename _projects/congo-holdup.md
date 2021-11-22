@@ -64,6 +64,8 @@ publications:
     url: https://www.standaard.be/cnt/dmf20211119_94242606
   - name: Premier reageert op Congo hold-up - ‘Dit moet huidige president helpen in strijd tegen corruptie’
     url: https://www.standaard.be/cnt/dmf20211119_95552902
+  - name: De clan-Kabila betaalde twee miljoen aan steenrijke Belg George Forrest
+    url: https://www.standaard.be/cnt/dmf20211121_98057483
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
@@ -76,6 +78,8 @@ publications:
     url: https://www.lesoir.be/340772/sections/congo-hold
   - name: Le clan Kabila a détourné au moins 138 millions de dollars de fonds publics
     url: https://www.lesoir.be/407338/article/2021-11-19/congo-hold-le-clan-kabila-detourne-au-moins-138-millions-de-dollars-de-fonds
+  - name: Les deux millions suspects du régime Kabila à George Forrest
+    url: https://www.lesoir.be/407714/article/2021-11-22/congo-hold-les-deux-millions-suspects-du-regime-kabila-george-forrest
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
@@ -133,8 +137,10 @@ publications:
   url: https://www.bbc.com/
 - lang: "[FO]"
   links:
-  - name:
-    url:
+  - name: Kongoránið
+    url: https://kvf.fo/kongor%C3%A1ni%C3%B0
+  - name: Alt týðir upp á hvítvasking í BankNordik
+    url: https://kvf.fo/greinar/2021/11/22/alt-tydir-upp-hvitvasking-i-banknordik
   name: Kringvarp Føroya
   url: https://kvf.fo/
 - lang: "[EN]"
