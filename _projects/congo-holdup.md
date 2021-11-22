@@ -44,6 +44,8 @@ publications:
     url: https://www.infolibre.es/noticias/economia/2021/11/22/la_mayor_filtracion_documentos_financieros_africa_126890_1011.html
   - name: El clan del expresidente Kabila utilizó un banco para saquear las arcas del Estado en uno de los países más pobres del mundo
     url: https://www.infolibre.es/noticias/lo_mejor_mediapart/2021/11/20/el_clan_del_expresidente_kabila_utilizo_banco_bgfi_para_saquear_140_millones_dolares_fondos_publicos_uno_los_paises_mas_pobres_del_mundo_126902_1044.html
+  - name: Kabila desvió 68 millones a través de una importadora de alimentos con negocios dudosos en Féroe, Hong Kong y Namibia
+    url: https://www.infolibre.es/noticias/lo_mejor_mediapart/2021/11/20/congo_hold_expolio_del_congo_historia_secreta_del_escandalo_egal_126950_1044.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[PT]"
