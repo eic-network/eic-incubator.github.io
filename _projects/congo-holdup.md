@@ -22,6 +22,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/191121/le-plus-grand-leak-d-afrique-devoile-les-secrets-financiers-du-congo
   - name: Vidéo - piller son propre pays, mode d’emploi
     url: https://www.mediapart.fr/journal/france/191121/video-piller-son-propre-pays-mode-d-emploi
+  - name: Comment le clan Kabila s’est engraissé sur les importations alimentaires
+    url: https://www.mediapart.fr/journal/international/221121/congo-hold-comment-le-clan-kabila-s-est-engraisse-sur-les-importations-alimentaires
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
