@@ -129,6 +129,8 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-bgfibank-la-banque-des-présidents
   - name: Comment l’ONG The Sentry a pu tracer l’argent de la famille Kabila 
     url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-comment-l-ong-the-sentry-a-pu-tracer-l-argent-des-kabilas
+  - name: Egal, l’autopsie d’un scandale
+    url: https://www.rfi.fr/fr/afrique/20211122-congo-hold-up-egal-l-autopsie-d-un-scandale
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
