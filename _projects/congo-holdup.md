@@ -14,6 +14,8 @@ description: |-
 publications:
 - lang: "[FR, EN, ES]"
   links:
+  - name: CONGO HOLD-UP - NOTRE DOSSIER
+    url: https://www.mediapart.fr/journal/international/dossier/congo-hold-notre-dossier
   - name: Congo hold-up - comment le clan Kabila a détourné 138 millions de dollars
     url: https://www.mediapart.fr/journal/international/191121/congo-hold-comment-le-clan-kabila-detourne-138-millions-de-dollars
   - name: La BGFI, banque de la Françafrique au cœur du scandale
@@ -24,6 +26,10 @@ publications:
     url: https://www.mediapart.fr/journal/france/191121/video-piller-son-propre-pays-mode-d-emploi
   - name: Comment le clan Kabila s’est engraissé sur les importations alimentaires
     url: https://www.mediapart.fr/journal/international/221121/congo-hold-comment-le-clan-kabila-s-est-engraisse-sur-les-importations-alimentaires
+  - name: Banque centrale de la RDC - les rouages d’un pillage d’État
+    url: https://www.mediapart.fr/journal/international/221121/congo-hold-banque-centrale-de-la-rdc-les-rouages-d-un-pillage-d-etat
+  - name: Le megayacht et la société fantôme de Joseph Kabila
+    url: https://www.mediapart.fr/journal/international/231121/congo-hold-le-megayacht-et-la-societe-fantome-de-joseph-kabila
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
@@ -70,6 +76,8 @@ publications:
     url: https://www.standaard.be/cnt/dmf20211119_95552902
   - name: De clan-Kabila betaalde twee miljoen aan steenrijke Belg George Forrest
     url: https://www.standaard.be/cnt/dmf20211121_98057483
+  - name: Enigma XK, het luxejacht van de clan-Kabila
+    url: https://www.standaard.be/cnt/dmf20211123_05012275
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
