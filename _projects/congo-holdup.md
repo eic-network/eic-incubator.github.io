@@ -173,8 +173,8 @@ publications:
   url: https://www.namibian.com.na/
 - lang: "[EN]"
   links:
-  - name:
-    url:
+  - name: The dictators' favorite bank
+    url: https://twitter.com/thecontinent_/status/1461824985828413445
   name: The Continent
   url: https://mg.co.za/thecontinent/
 - lang: "[EN, HI, UR, MR]"
