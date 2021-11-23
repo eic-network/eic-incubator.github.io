@@ -96,6 +96,8 @@ publications:
     url: https://www.lesoir.be/407803/article/2021-11-22/congo-hold-lhistoire-secrete-du-scandale-egal
   - name: La caisse noire de la Banque centrale du Congo
     url: https://www.lesoir.be/407801/article/2021-11-22/congo-hold-la-caisse-noire-de-la-banque-centrale-du-congo
+  - name: Le yacht belge, le président Kabila et un parfum de blanchiment à Uccle
+    url: https://www.lesoir.be/408044/article/2021-11-23/congo-hold-le-yacht-belge-le-president-kabila-et-un-parfum-de-blanchiment-uccle
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
@@ -139,6 +141,8 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211119-congo-hold-up-comment-l-ong-the-sentry-a-pu-tracer-l-argent-des-kabilas
   - name: Egal, l’autopsie d’un scandale
     url: https://www.rfi.fr/fr/afrique/20211122-congo-hold-up-egal-l-autopsie-d-un-scandale
+  - name: Sur les traces de Port de Fisher, la mystérieuse société de Joseph Kabila
+    url: https://www.rfi.fr/fr/afrique/20211123-congo-hold-up-sur-les-traces-de-port-de-fisher-la-myst%C3%A9rieuse-soci%C3%A9t%C3%A9-de-joseph-kabila?ref=tw
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
