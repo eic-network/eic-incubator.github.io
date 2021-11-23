@@ -185,6 +185,8 @@ publications:
     url: https://congoholdup.com/
   - name: Africa's biggest leak 
     url: https://www.pplaaf.org/2021/11/19/congo-holdup-leak.html
+  - name: A Fishy Story
+    url: https://www.pplaaf.org/2021/11/22/congo-egal-public-funds.html
   name: PPLAAF
   url: https://www.pplaaf.org/
 - lang: "[DE, FR]"
