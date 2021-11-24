@@ -157,6 +157,14 @@ publications:
   links:
   - name:  Qu’est-ce que « Congo hold-up », la plus grosse fuite de données financières d’Afrique ?
     url: https://www.lorientlejour.com/article/1282115/quest-ce-que-congo-hold-up-la-plus-grosse-fuite-de-donnees-financieres-dafrique-.html
+  - name: Tout ce qu’il faut savoir sur le volet libanais de l’enquête « Congo Hold-up »
+    url: https://www.lorientlejour.com/article/1282456/tout-ce-quil-faut-savoir-sur-le-volet-libanais-de-lenquete-congo-hold-up-.html
+  - name: Comment la nébuleuse Tajeddine contourne les sanctions américaines contre le Hezbollah
+    url: https://www.lorientlejour.com/article/1282459/comment-la-nebuleuse-tajeddine-contourne-les-sanctions-americaines-contre-le-hezbollah.html
+  - name: Ces millions de l’UE qui alimentent les comptes du réseau Tajeddine
+    url: https://www.lorientlejour.com/article/1282457/ces-millions-de-lue-qui-alimentent-les-comptes-du-reseau-tajeddine.html
+  - name: Quand Bankmed Suisse héberge les millions de dollars d’un réseau d’entreprises sous sanctions américaines
+    url: https://www.lorientlejour.com/article/1282475/quand-bankmed-suisse-heberge-les-millions-de-dollars-dun-reseau-dentreprises-sous-sanctions-americaines.html
   name: L'Orient le Jour
   url: https://www.lorientlejour.com/
 - lang: "[EN]"
@@ -207,6 +215,10 @@ publications:
     url: https://www.publiceye.ch/fr/coin-medias/communiques-de-presse/detail/congo-hold-up-dans-les-rouages-du-plus-grand-detournement-dafrique-centrale
   - name: Riesiges Datenleck zeigt systematische Veruntreuungen durch Kabila-Clan
     url: https://www.publiceye.ch/de/mediencorner/medienmitteilungen/detail/ueberfall-auf-den-kongo-riesiges-datenleck-zeigt-systematische-veruntreuungen-durch-kabila-clan
+  - name: La Suisse, arrière-cuisine des intrigues électorales congolaises
+    url:  https://www.publiceye.ch/fr/thematiques/corruption/congo-hold-up/la-suisse-arriere-cuisine-des-intrigues-electorales-congolaises
+  - name: Die Schweiz als Hinterzimmer der kongolesischen Wahlintrigen
+    url: https://www.publiceye.ch/de/themen/korruption/congo-hold-up/die-schweiz-als-hinterzimmer-der-kongolesischen-wahlintrigen
   name: Public Eye
   url: https://www.publiceye.ch/
 - lang: "[EN]"
