@@ -30,6 +30,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/221121/congo-hold-banque-centrale-de-la-rdc-les-rouages-d-un-pillage-d-etat
   - name: Le megayacht et la société fantôme de Joseph Kabila
     url: https://www.mediapart.fr/journal/international/231121/congo-hold-le-megayacht-et-la-societe-fantome-de-joseph-kabila
+  - name: Des fonds publics ont renfloué la société textile des Kabila
+    url: https://www.mediapart.fr/journal/international/241121/congo-hold-des-fonds-publics-ont-renfloue-la-societe-textile-des-kabila
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
@@ -150,7 +152,9 @@ publications:
   - name: Egal, l’autopsie d’un scandale
     url: https://www.rfi.fr/fr/afrique/20211122-congo-hold-up-egal-l-autopsie-d-un-scandale
   - name: Sur les traces de Port de Fisher, la mystérieuse société de Joseph Kabila
-    url: https://www.rfi.fr/fr/afrique/20211123-congo-hold-up-sur-les-traces-de-port-de-fisher-la-myst%C3%A9rieuse-soci%C3%A9t%C3%A9-de-joseph-kabila?ref=tw
+    url: https://www.rfi.fr/fr/afrique/20211123-congo-hold-up-sur-les-traces-de-port-de-fisher-la-myst%C3%A9rieuse-soci%C3%A9t%C3%A9-de-joseph-kabila
+  - name: Congo Hold-up: comment se servir dans le budget des élections?
+    url: https://www.rfi.fr/fr/afrique/20211123-congo-hold-up-comment-se-servir-dans-le-budget-des-%C3%A9lections
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
