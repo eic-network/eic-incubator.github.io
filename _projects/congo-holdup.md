@@ -34,8 +34,14 @@ publications:
   url: https://www.mediapart.fr
 - lang: "[NL]"
   links:
+  - name: Roofbank
+    url: https://www.nrc.nl/dossier/roofbank/
   - name: Congolese bank trekt fout geld uit de hele wereld
     url: https://www.nrc.nl/nieuws/2021/11/19/congolese-bank-trekt-fout-geld-uit-de-hele-wereld-a4066011
+  - name: Hoe brabantse vleeshandelaren miljoenen cash uit congo ontvingen
+    url: https://www.nrc.nl/nieuws/2021/11/23/hoe-brabantse-vleeshandelaren-miljoenen-cash-uit-congo-ontvingen-a4066496
+  - name: Brabantse vleeshandelaren ontdoken sancties van VS
+    url: https://www.nrc.nl/nieuws/2021/11/23/brabantse-vleeshandelaren-ontdoken-sancties-van-vs-a4066585
   name: NRC
   url: https://www.nrc.nl
 - lang: "[DE, EN]"
@@ -122,6 +128,8 @@ publications:
   links:
   - name: Legăturile României cu „banca mafiei” lui Kabila 
     url: https://newsweek.ro/investigatii/congo-hold-up-legaturile-romaniei-cu-banca-mafiei-lui-kabila
+  - name: Banii și afacerile din România ale lui Kassim Tajideen, închis în SUA pentru finanțarea Hezbollah
+    url: https://newsweek.ro/investigatii/banii-si-afacerile-din-romania-ale-lui-kassim-tajideen-inchis-in-sua-pentru-finantarea-hezbollah
   name: Centrul Român pentru Jurnalism de Investigație
 - lang: "[EN]"
   links:
