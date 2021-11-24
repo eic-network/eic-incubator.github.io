@@ -153,7 +153,7 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211122-congo-hold-up-egal-l-autopsie-d-un-scandale
   - name: Sur les traces de Port de Fisher, la mystérieuse société de Joseph Kabila
     url: https://www.rfi.fr/fr/afrique/20211123-congo-hold-up-sur-les-traces-de-port-de-fisher-la-myst%C3%A9rieuse-soci%C3%A9t%C3%A9-de-joseph-kabila
-  - name: Congo Hold-up: comment se servir dans le budget des élections?
+  - name: Comment se servir dans le budget des élections?
     url: https://www.rfi.fr/fr/afrique/20211123-congo-hold-up-comment-se-servir-dans-le-budget-des-%C3%A9lections
   name: Radio France Internationale
   url: https://www.rfi.fr/
