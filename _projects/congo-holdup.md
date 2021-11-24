@@ -223,6 +223,10 @@ publications:
     url:  https://www.publiceye.ch/fr/thematiques/corruption/congo-hold-up/la-suisse-arriere-cuisine-des-intrigues-electorales-congolaises
   - name: Die Schweiz als Hinterzimmer der kongolesischen Wahlintrigen
     url: https://www.publiceye.ch/de/themen/korruption/congo-hold-up/die-schweiz-als-hinterzimmer-der-kongolesischen-wahlintrigen
+  - name: Une banque genevoise a accueilli les millions d’un réseau libanais sous sanction
+    url: https://www.publiceye.ch/fr/thematiques/corruption/congo-hold-up/une-banque-genevoise-a-accueilli-les-millions-dun-reseau-libanais-sous-sanction
+  - name: Genfer Bank nimmt Millionen eines libanesischen Netzwerks entgegen, das unter Sanktionen steht
+    url: https://www.publiceye.ch/de/themen/korruption/congo-hold-up/genfer-bank-nimmt-millionen-eines-libanesischen-netzwerks-entgegen-das-unter-sanktionen-steht
   name: Public Eye
   url: https://www.publiceye.ch/
 - lang: "[EN]"
