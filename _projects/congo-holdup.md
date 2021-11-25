@@ -199,8 +199,8 @@ publications:
   url: https://mg.co.za/thecontinent/
 - lang: "[EN, HI, UR, MR]"
   links:
-  - name:
-    url:
+  - name: Indian Businessman at Centre of Probe Into Multi-Million Dollar Congo Embezzlement
+    url: https://thewire.in/business/indian-businessman-dr-congo-leak-joseph-kabila-bgfi-bank
   name: The Wire
   url: https://thewire.in/
 - lang: "[FR, EN]"
