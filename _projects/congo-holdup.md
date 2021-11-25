@@ -32,6 +32,10 @@ publications:
     url: https://www.mediapart.fr/journal/international/231121/congo-hold-le-megayacht-et-la-societe-fantome-de-joseph-kabila
   - name: Des fonds publics ont renfloué la société textile des Kabila
     url: https://www.mediapart.fr/journal/international/241121/congo-hold-des-fonds-publics-ont-renfloue-la-societe-textile-des-kabila
+  - name: Les montagnes de cash de la famille Kabila
+    url: https://www.mediapart.fr/journal/international/241121/congo-hold-les-montagnes-de-cash-de-la-famille-kabila
+  - name: Les élections, ce pactole
+    url: https://www.mediapart.fr/journal/international/251121/congo-hold-les-elections-ce-pactole
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
