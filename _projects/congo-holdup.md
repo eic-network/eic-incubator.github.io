@@ -163,6 +163,8 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211123-congo-hold-up-comment-se-servir-dans-le-budget-des-%C3%A9lections
   - name: Les comptes opaques de la Commission électorale de 2011
     url: https://www.rfi.fr/fr/afrique/20211125-congo-hold-up-les-comptes-opaques-de-la-commission-électorale-de-2011
+  - name: La BGFI, au cœur du scandale, brise le silence
+    url: https://www.rfi.fr/fr/afrique/20211125-congo-hold-up-la-bgfi-au-cœur-du-scandale-brise-le-silence
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
