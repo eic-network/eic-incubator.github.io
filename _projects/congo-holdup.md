@@ -245,6 +245,8 @@ publications:
     url: https://www.publiceye.ch/fr/thematiques/corruption/congo-hold-up/une-banque-genevoise-a-accueilli-les-millions-dun-reseau-libanais-sous-sanction
   - name: Genfer Bank nimmt Millionen eines libanesischen Netzwerks entgegen, das unter Sanktionen steht
     url: https://www.publiceye.ch/de/themen/korruption/congo-hold-up/genfer-bank-nimmt-millionen-eines-libanesischen-netzwerks-entgegen-das-unter-sanktionen-steht
+  - name: Les ambitions frustrées de Socar au Congo
+    url: https://www.publiceye.ch/fr/thematiques/corruption/congo-hold-up/les-ambitions-frustrees-de-socar-au-congo
   name: Public Eye
   url: https://www.publiceye.ch/
 - lang: "[EN]"
