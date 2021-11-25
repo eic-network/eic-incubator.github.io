@@ -110,6 +110,10 @@ publications:
     url: https://www.lesoir.be/407801/article/2021-11-22/congo-hold-la-caisse-noire-de-la-banque-centrale-du-congo
   - name: Le yacht belge, le président Kabila et un parfum de blanchiment à Uccle
     url: https://www.lesoir.be/408044/article/2021-11-23/congo-hold-le-yacht-belge-le-president-kabila-et-un-parfum-de-blanchiment-uccle
+  - name: Les montagnes de cash de la famille Kabila
+    url: https://www.lesoir.be/408521/article/2021-11-25/congo-hold-les-montagnes-de-cash-de-la-famille-kabila
+  - name: Dès 2011, la Commission électorale arrosait
+    url: https://www.lesoir.be/408611/article/2021-11-25/congo-hold-des-2011-la-commission-electorale-arrosait
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
