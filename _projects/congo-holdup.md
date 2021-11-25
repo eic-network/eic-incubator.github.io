@@ -132,6 +132,8 @@ publications:
     url: https://newsweek.ro/investigatii/congo-hold-up-legaturile-romaniei-cu-banca-mafiei-lui-kabila
   - name: Banii și afacerile din România ale lui Kassim Tajideen, închis în SUA pentru finanțarea Hezbollah
     url: https://newsweek.ro/investigatii/banii-si-afacerile-din-romania-ale-lui-kassim-tajideen-inchis-in-sua-pentru-finantarea-hezbollah
+  - name: Clanul Tajideen, activ și în România - plătit de UE, sancționat de SUA pentru finanțarea Hezbollah
+    url: https://newsweek.ro/investigatii/clanul-tajideen-activ-si-in-romania-platit-de-ue-sanctionat-de-sua-pentru-finantarea-hezbollah
   name: Centrul Român pentru Jurnalism de Investigație
 - lang: "[EN]"
   links:
@@ -194,7 +196,7 @@ publications:
 - lang: "[EN]"
   links:
   - name: The dictators' favorite bank
-    url: https://twitter.com/thecontinent_/status/1461824985828413445
+    url: https://media.mg.co.za/wp-media/2021/11/92eac688-thecontinentissue65.pdf
   name: The Continent
   url: https://mg.co.za/thecontinent/
 - lang: "[EN, HI, UR, MR]"
