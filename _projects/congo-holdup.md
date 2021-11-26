@@ -116,6 +116,8 @@ publications:
     url: https://www.lesoir.be/408521/article/2021-11-25/congo-hold-les-montagnes-de-cash-de-la-famille-kabila
   - name: Dès 2011, la Commission électorale arrosait
     url: https://www.lesoir.be/408611/article/2021-11-25/congo-hold-des-2011-la-commission-electorale-arrosait
+  - name: Enquête sur la nébuleuse «Congo Futur» entre Kinshasa, Beyrouth et Anvers
+    url: https://www.lesoir.be/408785/article/2021-11-26/congo-hold-enquete-sur-la-nebuleuse-congo-futur-entre-kinshasa-beyrouth-et
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
