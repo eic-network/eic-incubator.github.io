@@ -36,6 +36,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/241121/congo-hold-les-montagnes-de-cash-de-la-famille-kabila
   - name: Les élections, ce pactole
     url: https://www.mediapart.fr/journal/international/251121/congo-hold-les-elections-ce-pactole
+  - name: Des hommes d’affaires soupçonnés d’avoir financé le Hezbollah ont versé des fonds aux Kabila
+    url: https://www.mediapart.fr/journal/international/261121/republique-democratique-du-congo-des-hommes-d-affaires-soupconnes-d-avoir-finance-le-hezbollah-ont
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
@@ -169,6 +171,8 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211125-congo-hold-up-les-comptes-opaques-de-la-commission-électorale-de-2011
   - name: La BGFI, au cœur du scandale, brise le silence
     url: https://www.rfi.fr/fr/afrique/20211125-congo-hold-up-la-bgfi-au-cœur-du-scandale-brise-le-silence
+  - name: Congo Futur, un empire sous sanctions
+    url: https://www.rfi.fr/fr/afrique/20211126-congo-hold-up-congo-futur-un-empire-sous-sanctions
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
