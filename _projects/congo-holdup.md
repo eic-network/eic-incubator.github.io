@@ -191,6 +191,8 @@ publications:
     url: https://www.lorientlejour.com/article/1282475/quand-bankmed-suisse-heberge-les-millions-de-dollars-dun-reseau-dentreprises-sous-sanctions-americaines.html
   - name: Une société libanaise dans l’opaque machinerie électorale congolaise
     url: https://www.lorientlejour.com/article/1282592/une-societe-libanaise-dans-lopaque-machinerie-electorale-congolaise.html
+  - name: كيف حُولت ملايين الدولارات عبر BankMed Suisse 
+    url: https://daraj.com/82946/
   name: L'Orient le Jour
   url: https://www.lorientlejour.com/
 - lang: "[EN]"
