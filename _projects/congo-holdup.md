@@ -54,8 +54,8 @@ publications:
   links:
   - name: Wie der Kabila-Clan Kongos Staatskasse plünderte
     url: https://www.spiegel.de/ausland/kongo-wie-der-kabila-clan-die-staatskasse-pluenderte-eine-bank-eine-briefkastenfirma-und-ein-ueberfall-a-6e71d52a-6faa-47a8-877b-a563653d0207?context=issue
-  - name:
-    url: 
+  - name: Wie EU-Millionen bei mutmaßlichen Hisbollah-Finanziers landeten
+    url: https://www.spiegel.de/ausland/wie-eu-millionen-bei-mutmasslichen-hisbollah-finanziers-landeten-a-017ef81d-1728-4f62-9d4f-745f2707c67c
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[ES]"
