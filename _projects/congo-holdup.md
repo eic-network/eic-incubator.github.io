@@ -38,6 +38,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/251121/congo-hold-les-elections-ce-pactole
   - name: Des hommes d’affaires soupçonnés d’avoir financé le Hezbollah ont versé des fonds aux Kabila
     url: https://www.mediapart.fr/journal/international/261121/republique-democratique-du-congo-des-hommes-d-affaires-soupconnes-d-avoir-finance-le-hezbollah-ont
+  - name: Des entreprises françaises parmi les bénéficiaires d’un possible réseau de blanchiment
+    url: https://www.mediapart.fr/journal/international/271121/congo-hold-des-entreprises-francaises-parmi-les-beneficiaires-d-un-possible-reseau-de-blanchiment
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
