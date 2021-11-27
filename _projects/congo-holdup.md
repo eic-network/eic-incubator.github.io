@@ -177,6 +177,8 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211125-congo-hold-up-la-bgfi-au-cœur-du-scandale-brise-le-silence
   - name: Congo Futur, un empire sous sanctions
     url: https://www.rfi.fr/fr/afrique/20211126-congo-hold-up-congo-futur-un-empire-sous-sanctions
+  - name: Comment transférer des millions à l’étranger?
+    url: https://www.rfi.fr/fr/afrique/20211127-congo-hold-up-comment-transf%C3%A9rer-des-millions-%C3%A0-l-%C3%A9tranger
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
