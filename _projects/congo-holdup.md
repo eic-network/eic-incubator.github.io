@@ -39,6 +39,8 @@ publications:
   - name: Des hommes d’affaires soupçonnés d’avoir financé le Hezbollah ont versé des fonds aux Kabila
     url: https://www.mediapart.fr/journal/international/261121/republique-democratique-du-congo-des-hommes-d-affaires-soupconnes-d-avoir-finance-le-hezbollah-ont
   name: Mediapart
+  - name: Des entreprises françaises parmi les bénéficiaires d’un possible réseau de blanchiment
+    url: https://www.mediapart.fr/journal/international/271121/congo-hold-des-entreprises-francaises-parmi-les-beneficiaires-d-un-possible-reseau-de-blanchiment 
   url: https://www.mediapart.fr
 - lang: "[NL]"
   links:
@@ -175,6 +177,8 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211125-congo-hold-up-la-bgfi-au-cœur-du-scandale-brise-le-silence
   - name: Congo Futur, un empire sous sanctions
     url: https://www.rfi.fr/fr/afrique/20211126-congo-hold-up-congo-futur-un-empire-sous-sanctions
+  - name: Comment transférer des millions à l’étranger?
+    url: https://www.rfi.fr/fr/afrique/20211127-congo-hold-up-comment-transf%C3%A9rer-des-millions-%C3%A0-l-%C3%A9tranger
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
