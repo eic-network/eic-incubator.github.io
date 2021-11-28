@@ -40,6 +40,8 @@ publications:
     url: https://www.mediapart.fr/journal/international/261121/republique-democratique-du-congo-des-hommes-d-affaires-soupconnes-d-avoir-finance-le-hezbollah-ont
   - name: Des entreprises françaises parmi les bénéficiaires d’un possible réseau de blanchiment
     url: https://www.mediapart.fr/journal/international/271121/congo-hold-des-entreprises-francaises-parmi-les-beneficiaires-d-un-possible-reseau-de-blanchiment
+  - name: Les Chinois ont corrompu les Kabila pour un contrat minier géant
+    url: https://www.mediapart.fr/journal/international/281121/congo-hold-les-chinois-ont-corrompu-les-kabila-pour-un-contrat-minier-geant
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
