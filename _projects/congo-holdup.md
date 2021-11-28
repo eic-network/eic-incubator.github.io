@@ -96,6 +96,10 @@ publications:
     url: https://www.standaard.be/cnt/dmf20211121_98057483
   - name: Enigma XK, het luxejacht van de clan-Kabila
     url: https://www.standaard.be/cnt/dmf20211123_05012275
+  - name: De mysterieuze Belg in het Congo-kluwen
+    url: https://www.standaard.be/cnt/DMF20211126_94396167
+  - name: Europa stuurde miljoenen naar bedrijf dat terreursancties omzeilt
+    url: https://www.standaard.be/cnt/dmf20211125_98115461
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
