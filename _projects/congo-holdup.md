@@ -163,6 +163,8 @@ publications:
   links:
   - name: Biggest African Bank Leak Shows Kabila Allies Looted Congo Funds
     url: https://www.bloomberg.com/news/articles/2021-11-19/biggest-african-bank-leak-shows-ex-congo-president-s-allies-looted-state?sref=QcYdzgGl
+  - name: The Big Take - China Cash Flowed Through Congo Bank to Former President’s Cronies
+    url: https://www.bloomberg.com/news/features/2021-11-28/africa-s-biggest-data-leak-reveals-china-money-role-in-kabila-s-congo-looting
   name: Bloomberg
   url: https://www.bloomberg.com/
 - lang: "[FR]"
