@@ -128,6 +128,8 @@ publications:
     url: https://www.lesoir.be/408611/article/2021-11-25/congo-hold-des-2011-la-commission-electorale-arrosait
   - name: Enquête sur la nébuleuse «Congo Futur» entre Kinshasa, Beyrouth et Anvers
     url: https://www.lesoir.be/408785/article/2021-11-26/congo-hold-enquete-sur-la-nebuleuse-congo-futur-entre-kinshasa-beyrouth-et
+  - name: Le «contrat du siècle» entaché par une corruption à échelle industrielle
+    url: https://www.lesoir.be/409129/article/2021-11-28/congo-hold-le-contrat-du-siecle-entache-par-une-corruption-echelle-industrielle
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
@@ -273,6 +275,8 @@ publications:
   links:
   - name: Embezzled Empire
     url: https://thesentry.org/reports/embezzled-empire/
+  - name: The Backchannel - State Capture and Bribery in Congo's Deal of the Century
+    url: https://thesentry.org/reports/backchannel/
   name: The Sentry
   url: https://thesentry.org/
 - lang: "[FR]"
