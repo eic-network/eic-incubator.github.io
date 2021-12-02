@@ -146,8 +146,8 @@ publications:
   url: https://www.vg.no/
 - lang: "[HR]"
   links:
-  - name:
-    url:
+  - name: Dokumenti otkrivaju kako je obitelj bivšeg predsjednika pronevjerila najmanje 138 milijuna dolara
+    url: https://www.nacional.hr/congo-hold-up-dokumenti-otkrivaju-kako-je-obitelj-bivseg-predsjednika-dr-konga-pronevjerila-najmanje-138-milijuna-dolara/
   name: Nacional
   url: https://nacional.hr/
 - lang: "[RO]"
