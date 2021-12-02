@@ -104,6 +104,10 @@ publications:
     url: https://www.standaard.be/cnt/DMF20211126_94396167
   - name: Europa stuurde miljoenen naar bedrijf dat terreursancties omzeilt
     url: https://www.standaard.be/cnt/dmf20211125_98115461
+  - name: De Chinese geldcarrousel achter de mijndeal van de eeuw
+    url: https://www.standaard.be/cnt/dmf20211128_98033133
+  - name: Hoe Congolese paspoorten een Ukkelse kassa doen rinkelen
+    url: https://www.standaard.be/cnt/dmf20211129_97638784
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
