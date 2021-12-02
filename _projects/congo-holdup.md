@@ -66,6 +66,8 @@ publications:
     url: https://www.spiegel.de/ausland/kongo-wie-der-kabila-clan-die-staatskasse-pluenderte-eine-bank-eine-briefkastenfirma-und-ein-ueberfall-a-6e71d52a-6faa-47a8-877b-a563653d0207?context=issue
   - name: Wie EU-Millionen bei mutmaßlichen Hisbollah-Finanziers landeten
     url: https://www.spiegel.de/ausland/wie-eu-millionen-bei-mutmasslichen-hisbollah-finanziers-landeten-a-017ef81d-1728-4f62-9d4f-745f2707c67c
+  - name: Chinas schmutziges Geschäft im Kongo
+    url: https://www.spiegel.de/ausland/chinas-schmutziges-geschaeft-im-kongo-a-f9527d7a-c98d-4b05-b49c-c759dbc77083
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[ES]"
@@ -136,6 +138,8 @@ publications:
     url: https://www.lesoir.be/408785/article/2021-11-26/congo-hold-enquete-sur-la-nebuleuse-congo-futur-entre-kinshasa-beyrouth-et
   - name: Le «contrat du siècle» entaché par une corruption à échelle industrielle
     url: https://www.lesoir.be/409129/article/2021-11-28/congo-hold-le-contrat-du-siecle-entache-par-une-corruption-echelle-industrielle
+  - name: Le conflit d’intérêts «ministériel» de la société belge Semlex
+    url: https://www.lesoir.be/409341/article/2021-11-30/congo-hold-le-conflit-dinterets-ministeriel-de-la-societe-belge-semlex
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
