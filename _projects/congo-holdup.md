@@ -283,6 +283,10 @@ publications:
     url: https://www.publiceye.ch/de/themen/korruption/congo-hold-up/genfer-bank-nimmt-millionen-eines-libanesischen-netzwerks-entgegen-das-unter-sanktionen-steht
   - name: Les ambitions frustrées de Socar au Congo
     url: https://www.publiceye.ch/fr/thematiques/corruption/congo-hold-up/les-ambitions-frustrees-de-socar-au-congo
+  - name: Les horloges fantômes « Made in Switzerland » de Kabila
+    url: https://www.publiceye.ch/fr/thematiques/corruption/congo-hold-up/les-horloges-fantomes-made-in-switzerland-de-kabila
+  - name: Kabilas Geisteruhren «Made in Switzerland»
+    url: https://www.publiceye.ch/de/themen/korruption/congo-hold-up/kabilas-geisteruhren-made-in-switzerland
   name: Public Eye
   url: https://www.publiceye.ch/
 - lang: "[EN]"
