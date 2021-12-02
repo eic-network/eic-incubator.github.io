@@ -231,6 +231,8 @@ publications:
     url: https://kvf.fo/kongor%C3%A1ni%C3%B0
   - name: Alt týðir upp á hvítvasking í BankNordik
     url: https://kvf.fo/greinar/2021/11/22/alt-tydir-upp-hvitvasking-i-banknordik
+  - name: Dokumentarurin - Kongoránið
+    url: https://kvf.fo/sending/stakar-sendingar?sid=131988
   name: Kringvarp Føroya
   url: https://kvf.fo/
 - lang: "[EN]"
