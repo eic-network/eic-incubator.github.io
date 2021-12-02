@@ -56,6 +56,8 @@ publications:
     url: https://www.nrc.nl/nieuws/2021/11/23/hoe-brabantse-vleeshandelaren-miljoenen-cash-uit-congo-ontvingen-a4066496
   - name: Brabantse vleeshandelaren ontdoken sancties van VS
     url: https://www.nrc.nl/nieuws/2021/11/23/brabantse-vleeshandelaren-ontdoken-sancties-van-vs-a4066585
+  - name: Hoe China greep kreeg op congo's kobalt
+    url: https://www.nrc.nl/nieuws/2021/11/28/hoe-china-greep-kreeg-op-congos-kobalt-a4067143
   name: NRC
   url: https://www.nrc.nl
 - lang: "[DE, EN]"
