@@ -221,6 +221,18 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211128-congo-hold-up-congo-construction-company-le-scandale-du-si%C3%A8cle
   - name: Une grande partie des pots-de-vin sont passés par des banques à New York
     url: https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique/20211130-congo-hold-up-une-grande-partie-des-pots-de-vin-sont-pass%C3%A9s-par-des-banques-%C3%A0-new-york
+  - name: Trois millions de dollars d’argent public retirés en cash par le directeur financier de Kabila
+    url: https://www.rfi.fr/fr/afrique/20211130-congo-hold-up-trois-millions-de-dollars-d-argent-public-retir%C3%A9s-en-cash-par-le-directeur-financier-de-kabila
+  - name: Comment s'enrichir avec l’organisation d’un sommet?
+    url: https://www.rfi.fr/fr/afrique/20211201-congo-hold-up-comment-s-enrichir-avec-l-organisation-d-un-sommet
+  - name: Les bonnes affaires des conseillers du président Tshisekedi
+    url: https://www.rfi.fr/fr/afrique/20211202-congo-hold-up-les-bonnes-affaires-des-conseillers-du-pr%C3%A9sident-tshisekedi
+  - name: Comment devenir l’entrepreneur de l’année en Belgique?
+    url: https://www.rfi.fr/fr/afrique/20211203-congo-hold-up-comment-devenir-l-entrepreneur-de-l-ann%C3%A9e-en-belgique
+  - name: Le président Tshisekedi révoque Albert Yuma de la présidence du conseil d’administration de la Gécamines
+    url: https://rfi.my/7yGB
+  - name: La Cité du fleuve, l’autre histoire de la «cité merveilleuse» au cœur de Kinshasa
+    url: https://www.rfi.fr/fr/afrique/20211205-congo-hold-up-la-cit%C3%A9-du-fleuve-l-autre-histoire-de-la-cit%C3%A9-merveilleuse-au-c%C5%93ur-de-kinshasa 
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
