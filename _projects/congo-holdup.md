@@ -58,6 +58,8 @@ publications:
     url: https://www.nrc.nl/nieuws/2021/11/23/brabantse-vleeshandelaren-ontdoken-sancties-van-vs-a4066585
   - name: Hoe China greep kreeg op congo's kobalt
     url: https://www.nrc.nl/nieuws/2021/11/28/hoe-china-greep-kreeg-op-congos-kobalt-a4067143
+  - name: Stukken van Congolese roofbank tonen onwenselijke Shinese machtspositie
+    url: https://www.nrc.nl/nieuws/2021/12/04/stukken-van-congolese-roofbank-tonen-onwenselijke-chinese-machtspositie-a4067877
   name: NRC
   url: https://www.nrc.nl
 - lang: "[DE, EN]"
@@ -140,6 +142,8 @@ publications:
     url: https://www.lesoir.be/409129/article/2021-11-28/congo-hold-le-contrat-du-siecle-entache-par-une-corruption-echelle-industrielle
   - name: Le conflit d’intérêts «ministériel» de la société belge Semlex
     url: https://www.lesoir.be/409341/article/2021-11-30/congo-hold-le-conflit-dinterets-ministeriel-de-la-societe-belge-semlex
+  - name: Les bonnes affaires des conseillers du président Tshisekedi
+    url: https://www.lesoir.be/409765/article/2021-12-02/congo-hold-les-bonnes-affaires-des-conseillers-du-president-tshisekedi
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
