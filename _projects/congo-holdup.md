@@ -112,6 +112,10 @@ publications:
     url: https://www.standaard.be/cnt/dmf20211128_98033133
   - name: Hoe Congolese paspoorten een Ukkelse kassa doen rinkelen
     url: https://www.standaard.be/cnt/dmf20211129_97638784
+  - name: De schimmige deals van de kandidaat-‘Manager van het Jaar’
+    url: https://www.standaard.be/cnt/dmf20211203_98014136
+  - name: De hofleverancier van het Congolese leger
+    url: https://www.standaard.be/cnt/dmf20211207_98134803
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
@@ -144,6 +148,10 @@ publications:
     url: https://www.lesoir.be/409341/article/2021-11-30/congo-hold-le-conflit-dinterets-ministeriel-de-la-societe-belge-semlex
   - name: Les bonnes affaires des conseillers du président Tshisekedi
     url: https://www.lesoir.be/409765/article/2021-12-02/congo-hold-les-bonnes-affaires-des-conseillers-du-president-tshisekedi
+  - name: Sur les traces des machines à prix d’or de Philippe de Moerloose
+    url: https://www.lesoir.be/410349/article/2021-12-04/congo-hold-sur-les-traces-des-machines-prix-dor-de-philippe-de-moerloose
+  - name: Les camions russes de Philippe de Moerloose
+    url: https://www.lesoir.be/411100/article/2021-12-08/congo-hold-les-camions-russes-de-philippe-de-moerloose
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
