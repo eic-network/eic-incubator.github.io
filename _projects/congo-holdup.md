@@ -92,6 +92,18 @@ publications:
     url: https://www.infolibre.es/noticias/lo_mejor_mediapart/2021/11/20/el_clan_del_expresidente_kabila_utilizo_banco_bgfi_para_saquear_140_millones_dolares_fondos_publicos_uno_los_paises_mas_pobres_del_mundo_126902_1044.html
   - name: Kabila desvió 68 millones a través de una importadora de alimentos con negocios dudosos en Féroe, Hong Kong y Namibia
     url: https://www.infolibre.es/noticias/lo_mejor_mediapart/2021/11/20/congo_hold_expolio_del_congo_historia_secreta_del_escandalo_egal_126950_1044.html
+  - name: Empresas francesas bajo sospecha por participar en la red de blanqueo de los Kabila
+    url: https://www.infolibre.es/mediapart/empresas-francesas-sospecha-participar-red-blanqueo-kabila_1_1214557.html
+  - name: Empresas chinas que controlan las minas de cobre y cobalto del Congo pagaron millones al clan de Kabila
+    url: https://www.infolibre.es/mediapart/empresas-chinas-lograron-control-congo-preciadas-minas-cobalto-ayuda-clan-kabila_1_1213947.html
+  - name: Congo Futur, la empresa que conecta a Hezbolá y al clan del expresidente Kabila
+    url: https://www.infolibre.es/mediapart/congo-futur-empresa-conexiones-hezbola-vinculaciones-kabila_1_1214160.html
+  - name: El largo historial de complicidad con los clanes presidenciales de Gabón y los dos Congos del BGFI, el mayor banco de África central
+    url: https://www.infolibre.es/economia/historial-complicidad-clanes-presidenciales-gabon-congos-bgfi-mayor-banco-africa-central_1_1213659.html
+  - name: Kabila desvió 68 millones a través de una importadora de alimentos con negocios dudosos en Feroe, Hong Kong y Namibia
+    url: https://www.infolibre.es/mediapart/kabila-desvio-68-millones-traves-importadora-alimentos-negocios-dudosos-feroe-hong-kong-namibia_1_1213693.html   
+  - name: Los relojes fantasma ‘Made in Switzerland’ de Kabila
+    url: https://www.infolibre.es/internacional/relojes-fantasma-made-in-switzerland-kabila_1_1214637.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[PT]"
