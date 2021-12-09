@@ -44,6 +44,18 @@ publications:
     url: https://www.mediapart.fr/journal/international/281121/congo-hold-des-millions-voles-l-etat-ont-finance-un-retrait-de-cash-par-le-directeur-financier-de-k
   - name: Les Chinois ont corrompu les Kabila pour un contrat minier géant
     url: https://www.mediapart.fr/journal/international/281121/congo-hold-les-chinois-ont-corrompu-les-kabila-pour-un-contrat-minier-geant
+  - name: Le blanchiment passait par Paris
+    url: https://www.mediapart.fr/journal/international/291121/congo-hold-le-blanchiment-passait-par-paris
+  - name: Les étonnantes dépenses du XIVe Sommet de la francophonie
+    url: https://www.mediapart.fr/journal/international/011221/les-etonnantes-depenses-du-xive-sommet-de-la-francophonie
+  - name: Les bonnes affaires des conseillers du président Tshisekedi
+    url: https://www.mediapart.fr/journal/international/021221/congo-hold-les-bonnes-affaires-des-conseillers-du-president-tshisekedi
+  - name: La Cité du fleuve - l’autre histoire du nouveau quartier de Kinshasa
+    url: https://www.mediapart.fr/journal/international/031221/la-cite-du-fleuve-l-autre-histoire-du-nouveau-quartier-de-kinshasa
+  - name: L’empire surfacturé de l’homme d’affaires Philippe de Moerloose
+    url: https://www.mediapart.fr/journal/international/041221/congo-hold-l-empire-surfacture-de-l-homme-d-affaires-philippe-de-moerloose
+  - name: Les affaires offshore de l’ancien gouverneur du Katanga
+    url: https://www.mediapart.fr/journal/international/081221/congo-hold-les-affaires-offshore-de-l-ancien-gouverneur-du-katanga    
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
