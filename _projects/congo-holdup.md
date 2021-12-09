@@ -215,6 +215,12 @@ publications:
     url: https://www.rfi.fr/fr/afrique/20211126-congo-hold-up-congo-futur-un-empire-sous-sanctions
   - name: Comment transférer des millions à l’étranger?
     url: https://www.rfi.fr/fr/afrique/20211127-congo-hold-up-comment-transf%C3%A9rer-des-millions-%C3%A0-l-%C3%A9tranger
+  - name: Pauvre peuple congolais !
+    url: https://rfi.my/7x7a 
+  - name: Congo Construction Company, le scandale du siècle
+    url: https://www.rfi.fr/fr/afrique/20211128-congo-hold-up-congo-construction-company-le-scandale-du-si%C3%A8cle
+  - name: «Une grande partie des pots-de-vin sont passés par des banques à New York»
+    url: https://www.rfi.fr/fr/podcasts/invit%C3%A9-afrique/20211130-congo-hold-up-une-grande-partie-des-pots-de-vin-sont-pass%C3%A9s-par-des-banques-%C3%A0-new-york
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
