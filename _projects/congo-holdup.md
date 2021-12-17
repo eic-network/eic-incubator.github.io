@@ -56,6 +56,10 @@ publications:
     url: https://www.mediapart.fr/journal/international/041221/congo-hold-l-empire-surfacture-de-l-homme-d-affaires-philippe-de-moerloose
   - name: Les affaires offshore de l’ancien gouverneur du Katanga
     url: https://www.mediapart.fr/journal/international/081221/congo-hold-les-affaires-offshore-de-l-ancien-gouverneur-du-katanga    
+  - name: La fortune offshore de l’entrepreneur belge Philippe de Moerloose
+    url: https://www.mediapart.fr/journal/international/141221/congo-hold-la-fortune-offshore-de-l-entrepreneur-belge-philippe-de-moerloose
+  - name: « Congo hold-up » - révélations sur un casse à 530 millions de dollars
+    url: https://www.mediapart.fr/journal/international/161221/congo-hold-revelations-sur-un-casse-530-millions-de-dollars
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
