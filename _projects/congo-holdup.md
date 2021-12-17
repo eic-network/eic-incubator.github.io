@@ -182,6 +182,8 @@ publications:
     url: https://www.lesoir.be/411100/article/2021-12-08/congo-hold-les-camions-russes-de-philippe-de-moerloose
   - name: Les affaires offshore de Moïse Katumbi
     url: https://www.lesoir.be/411273/article/2021-12-08/congo-hold-les-affaires-offshore-de-moise-katumbi
+  - name: Comment un demi-milliard s’est évaporé des mines
+    url: https://www.lesoir.be/412540/article/2021-12-16/congo-hold-comment-un-demi-milliard-sest-evapore-des-mines
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[DK]"
@@ -217,6 +219,8 @@ publications:
     url: https://www.bloomberg.com/news/articles/2021-11-19/biggest-african-bank-leak-shows-ex-congo-president-s-allies-looted-state?sref=QcYdzgGl
   - name: The Big Take - China Cash Flowed Through Congo Bank to Former President’s Cronies
     url: https://www.bloomberg.com/news/features/2021-11-28/africa-s-biggest-data-leak-reveals-china-money-role-in-kabila-s-congo-looting
+  - name: Congo Anti–Graft Chief Says $530 Million Mining Payments Missing
+    url: https://www.bloomberg.com/news/articles/2021-12-16/congo-anti-graft-chief-says-530-million-mining-payments-missing
   name: Bloomberg
   url: https://www.bloomberg.com/
 - lang: "[FR]"
@@ -261,6 +265,8 @@ publications:
     url: https://rfi.my/7yGB
   - name: La Cité du fleuve, l’autre histoire de la «cité merveilleuse» au cœur de Kinshasa
     url: https://www.rfi.fr/fr/afrique/20211205-congo-hold-up-la-cit%C3%A9-du-fleuve-l-autre-histoire-de-la-cit%C3%A9-merveilleuse-au-c%C5%93ur-de-kinshasa 
+  - name: Révélations sur un casse à 530 millions de dollars
+    url: https://www.rfi.fr/fr/afrique/20211216-congo-hold-up-r%C3%A9v%C3%A9lations-sur-un-casse-%C3%A0-530-millions-de-dollars
   name: Radio France Internationale
   url: https://www.rfi.fr/
 - lang: "[FR]"
@@ -301,8 +307,8 @@ publications:
   url: https://kvf.fo/
 - lang: "[EN]"
   links:
-  - name:
-    url:
+  - name: DRC's lost billions traced to Namibia
+    url: https://www.namibian.com.na/108436/read/DRCs-lost-billions-traced-to-Namibia
   name: The Namibian
   url: https://www.namibian.com.na/
 - lang: "[EN]"
@@ -361,8 +367,8 @@ publications:
   url: https://thesentry.org/
 - lang: "[FR]"
   links:
-  - name: 
-    url: 
+  - name: $530 millions portés disparus – Sur les traces des avances fiscales de la Gécamines
+    url: https://resourcematters.org/530-millions-portes-disparus-sur-les-traces-des-avances-fiscales-de-la-gecamines/
   name: Resource Matters
   url: https://resourcematters.org/
 - lang: "[EN]"
@@ -376,7 +382,7 @@ team_initiators: |-
 team_participants: |-
   **Reporting**
 
-  [Yann Philippin](https://twitter.com/yphilippin), [Justine Brabant](https://twitter.com/justinebrabant), [Karine Pfenniger](https://twitter.com/KarinePfenniger) and [Sebastien Bourdon](https://twitter.com/seb_bourdon) (Mediapart), [Roeland Termote](https://twitter.com/RoelandTermote), [Kasper Goethals](https://twitter.com/KasperGoethals) and [Nikolas Vanhecke](https://twitter.com/nikolasvh) (De Standaard), Daniel Balint-Kurti, [Gabriel Bourdon-Fattal](https://twitter.com/BourdonFattal), [Henri Thulliez](https://twitter.com/HenriThulliez) and [Julia Ntumba] (PPLAAF), [Nada Maucourant Atallah](https://twitter.com/MaucourantNada) (L'Orient-Le Jour), Barbara Holm, [Jan Lamhauge](https://twitter.com/JanLamhauge) and [Uni Holm Johannesen] (KvF), [Michael J. Kavanagh](https://twitter.com/mjkcongo) and [William Clowes](https://twitter.com/WTBClowes) (Bloomberg), [Louis Colart](https://twitter.com/LouisColart) and [Alain Lallemand] (Le Soir), [John Dell’Osso](https://twitter.com/j_dellosso), [Douglas Gillison](https://twitter.com/douglasgillison) and [Michelle Kendler-Kretsch](https://twitter.com/MichelleKretsch) (The Sentry), [Agathe Duparc](https://twitter.com/AgatheDuparc), [Adrià Budry Carbó](https://twitter.com/AdriaBudry) and [Camille Chappuis] (Public Eye), [Carola Houtekamer](https://twitter.com/nextcarola) and [Jeroen Wester](https://twitter.com/jeroen_wester) (NRC Handelsblad), [Sonia Rolley](https://twitter.com/soniarolley) (RFI), [Jimmy KANDE](https://twitter.com/kandejimmy) and [Jolino Malukisa] (CRG), [Joe Casey](https://twitter.com/joe1casey), Ned Davies, Ronan Kemp, Nicole Gilmer (BBC), [Malte Born](https://twitter.com/malteborn), [Christoph Winterbach](https://twitter.com/derwinterbach), [Rafael Buschmann](https://twitter.com/Rafanelli), [Nicola Naber], [Maximilian Popp](https://twitter.com/Maximilian_Popp), [Aleksandar Sarovic](https://twitter.com/alexsarovic) (Der Spiegel), [Carl Emil Arnfred](https://twitter.com/CarlEmilArnfred) (Politiken), [Catalin Prisacariu](https://twitter.com/prisacariu_c) (CRJI), Elisabeth Caesens and Jean Claude Mputu (Resource Matters)
+  [Yann Philippin](https://twitter.com/yphilippin), [Justine Brabant](https://twitter.com/justinebrabant), [Karine Pfenniger](https://twitter.com/KarinePfenniger) and [Sebastien Bourdon](https://twitter.com/seb_bourdon) (Mediapart), [Roeland Termote](https://twitter.com/RoelandTermote), [Kasper Goethals](https://twitter.com/KasperGoethals) and [Nikolas Vanhecke](https://twitter.com/nikolasvh) (De Standaard), Daniel Balint-Kurti, [Gabriel Bourdon-Fattal](https://twitter.com/BourdonFattal), [Henri Thulliez](https://twitter.com/HenriThulliez) and Julia Ntumba (PPLAAF), [Nada Maucourant Atallah](https://twitter.com/MaucourantNada) (L'Orient-Le Jour), Barbara Holm, [Jan Lamhauge](https://twitter.com/JanLamhauge) and [Uni Holm Johannesen] (KvF), [Michael J. Kavanagh](https://twitter.com/mjkcongo) and [William Clowes](https://twitter.com/WTBClowes) (Bloomberg), [Louis Colart](https://twitter.com/LouisColart) and [Alain Lallemand] (Le Soir), [John Dell’Osso](https://twitter.com/j_dellosso), [Douglas Gillison](https://twitter.com/douglasgillison) and [Michelle Kendler-Kretsch](https://twitter.com/MichelleKretsch) (The Sentry), [Agathe Duparc](https://twitter.com/AgatheDuparc), [Adrià Budry Carbó](https://twitter.com/AdriaBudry) and [Camille Chappuis] (Public Eye), [Carola Houtekamer](https://twitter.com/nextcarola) and [Jeroen Wester](https://twitter.com/jeroen_wester) (NRC Handelsblad), [Sonia Rolley](https://twitter.com/soniarolley) (RFI), [Jimmy KANDE](https://twitter.com/kandejimmy) and [Jolino Malukisa] (CRG), [Joe Casey](https://twitter.com/joe1casey), Ned Davies, Ronan Kemp, Nicole Gilmer (BBC), [Malte Born](https://twitter.com/malteborn), [Christoph Winterbach](https://twitter.com/derwinterbach), [Rafael Buschmann](https://twitter.com/Rafanelli), [Nicola Naber], [Maximilian Popp](https://twitter.com/Maximilian_Popp), [Aleksandar Sarovic](https://twitter.com/alexsarovic) (Der Spiegel), [Carl Emil Arnfred](https://twitter.com/CarlEmilArnfred) (Politiken), [Catalin Prisacariu](https://twitter.com/prisacariu_c) (CRJI), Elisabeth Caesens and Jean Claude Mputu (Resource Matters)
 
   **Tech and infodesign**
 
