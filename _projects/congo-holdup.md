@@ -282,7 +282,7 @@ publications:
   - name: DR Congo data leak - Millions transferred to Joseph Kabila allies
     url: https://www.bbc.com/news/world-africa-59343922
   - name: Congo's Missing Millions
-    url: https://twitter.com/BBCAfrica/status/1463590770376679424
+    url: https://www.youtube.com/watch?v=hnRknQDxBCQ
   name: BBC
   url: https://www.bbc.com/
 - lang: "[FO]"
