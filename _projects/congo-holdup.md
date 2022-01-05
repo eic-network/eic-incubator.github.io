@@ -331,6 +331,8 @@ publications:
     url: https://www.pplaaf.org/2021/11/19/congo-holdup-leak.html
   - name: A Fishy Story
     url: https://www.pplaaf.org/2021/11/22/congo-egal-public-funds.html
+  - name: Congolese food company wired $3m to Presidential Office
+    url: https://www.pplaaf.org/2021/12/02/congo-foodco-wired-president.html
   name: PPLAAF
   url: https://www.pplaaf.org/
 - lang: "[DE, FR]"
