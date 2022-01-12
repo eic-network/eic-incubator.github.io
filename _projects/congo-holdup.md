@@ -74,7 +74,7 @@ publications:
     url: https://www.nrc.nl/nieuws/2021/11/23/brabantse-vleeshandelaren-ontdoken-sancties-van-vs-a4066585
   - name: Hoe China greep kreeg op congo's kobalt
     url: https://www.nrc.nl/nieuws/2021/11/28/hoe-china-greep-kreeg-op-congos-kobalt-a4067143
-  - name: Stukken van Congolese roofbank tonen onwenselijke Shinese machtspositie
+  - name: Stukken van Congolese roofbank tonen onwenselijke Chinese machtspositie
     url: https://www.nrc.nl/nieuws/2021/12/04/stukken-van-congolese-roofbank-tonen-onwenselijke-chinese-machtspositie-a4067877
   name: NRC
   url: https://www.nrc.nl
