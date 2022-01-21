@@ -321,6 +321,8 @@ publications:
   links:
   - name: Indian Businessman at Centre of Probe Into Multi-Million Dollar Congo Embezzlement
     url: https://thewire.in/business/indian-businessman-dr-congo-leak-joseph-kabila-bgfi-bank
+  - name: A Group Of Indians In Spotlight For Illicit Money Transfers
+    url: https://thewire.in/economy/congo-hold-up-indians-spotlight-illicit-money-transfer
   name: The Wire
   url: https://thewire.in/
 - lang: "[FR, EN]"
