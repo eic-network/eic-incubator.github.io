@@ -37,3 +37,6 @@
 - name:
   url: https://www.infolibre.es
   image: infoLibre.png
+- name:
+  url: https://www.ilfattoquotidiano.it/
+  image: Ilfattoquotidiano.png
