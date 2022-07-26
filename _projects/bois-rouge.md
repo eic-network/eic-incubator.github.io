@@ -68,5 +68,7 @@ team_participants: |-
   **Project Design & Guide**
 
   Stefan Candea
-date: '2022-07-26 08:00:00'
+  
+ date: '2022-07-26 08:02:01'
 ---
+
