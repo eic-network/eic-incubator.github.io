@@ -2,7 +2,7 @@
 title: Bois Rouge
 intro: An investigation that is showing how the barter of conflict timber in exchange for Wagner mercenaries works in the Central African Republic
 description: |-
-Read about how the Central African Republic gave away its forest to the private military group Wagner. Because of the inefficiency of the timber controls in Europe, Wagner conflict timber cannot be stopped from reaching European clients, despite existing sanctions. Timber for Mercenaries was conducted in collaboration with [All Eyes on Wagner](https://alleyesonwagner.org/), a project by the French NGO [OpenFacto](https://openfacto.fr/). Read also about the methodology of doing such an investigation [here] (https://alleyesonwagner.org/2022/07/26/come-follow-the-redwood-trees-tracking-wagners-forestry-business-in-car/). 
+  Read about how the Central African Republic gave away its forest to the private military group Wagner. Because of the inefficiency of the timber controls in Europe, Wagner conflict timber cannot be stopped from reaching European clients, despite existing sanctions. Timber for Mercenaries was conducted in collaboration with [All Eyes on Wagner](https://alleyesonwagner.org/), a project by the French NGO [OpenFacto](https://openfacto.fr/). Read also about the methodology of doing such an investigation [here] (https://alleyesonwagner.org/2022/07/26/come-follow-the-redwood-trees-tracking-wagners-forestry-business-in-car/). 
 publications:
 - lang: "[DE, EN]"
   links:
@@ -29,22 +29,22 @@ publications:
   - name: Investigação - a floresta de sangue dos mercenários de Putin
     url: https://expresso.pt/sociedade/2022-07-26-Investigacao-a-floresta-de-sangue-dos-mercenarios-de-Putin-ad75beec
   name: Expresso
- - lang: [FR, NL]
+ - lang: "[FR, NL]"
   links:
   - name: Hoe Russische huurlingen de handel in tropisch hout overnemen
     url: https://www.standaard.be/cnt/dmf20220725_97612819
   name: De Standaard
-- lang: [FR]
+- lang: "[FR]"
   links:
   - name: Bois tropical contre mercenaires russes - comment la Centrafrique a brade une foret au groupe Wagner
     url: https://www.lesoir.be/456051/article/2022-07-26/bois-tropical-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret
   name: Le Soir
-- lang: [FR]
+- lang: "[FR]"
   links:
   - name: Quand les mercenaires russes de Wagner deboisent la foret centrafricaine
     url: https://www.rts.ch/info/monde/13264727-quand-les-mercenaires-russes-de-wagner-deboisent-la-foret-centrafricaine.html
   name: Radio Television Suisse
-- lang: [RU]
+- lang: "[RU]"
   links:
   - name: Повар Путина в африканском лесу
     url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu
