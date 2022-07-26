@@ -52,7 +52,7 @@ publications:
     url: https://www.rts.ch/info/monde/13264727-quand-les-mercenaires-russes-de-wagner-deboisent-la-foret-centrafricaine.html
   name: Radio Television Suisse
   url: https://www.rts.ch/
- - lang: "[RU]"
+- lang: "[RU]"
   links:
   - name: Повар Путина в африканском лесу
     url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu
@@ -69,5 +69,5 @@ team_participants: |-
 
   Stefan Candea
   
- date: '2022-07-26 08:02:01'
+date: '2022-07-26 08:02:01'
 ---
