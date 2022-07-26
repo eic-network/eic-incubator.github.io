@@ -11,12 +11,12 @@ publications:
   name: Der Spiegel
 - lang: "[ES]"
   links:
-  - name: "Madera para mercenarios rusos: así regaló la República Centroafricana un bosque a Wagner"
+  - name: Madera para mercenarios rusos - así regaló la República Centroafricana un bosque a Wagner
     url: https://www.infolibre.es/internacional/madera-mercenarios-rusos-regalo-republica-centroafricana-bosque-wagner_1_1289149.html
   name: infoLibre
 - lang: "[FR, EN, ES]"
   links:
-  - name: "Bois contre mercenaires russes: comment la Centrafrique a brade une foret au groupe Wagner"
+  - name: Bois contre mercenaires russes - comment la Centrafrique a brade une foret au groupe Wagner
     url: https://www.mediapart.fr/journal/international/260722/bois-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret-au-groupe-wagner
   name: Mediapart
 - lang: "[NL]"
@@ -26,7 +26,7 @@ publications:
   name: NRC
 - lang: "[PT]"
   links:
-  - name: "Investigação: a floresta de sangue dos mercenários de Putin"
+  - name: Investigação - a floresta de sangue dos mercenários de Putin
     url: https://expresso.pt/sociedade/2022-07-26-Investigacao-a-floresta-de-sangue-dos-mercenarios-de-Putin-ad75beec
   name: Expresso
  - lang: [FR, NL]
@@ -36,7 +36,7 @@ publications:
   name: De Standaard
 - lang: [FR]
   links:
-  - name: "Bois tropical contre mercenaires russes: comment la Centrafrique a brade une foret au groupe Wagner"
+  - name: Bois tropical contre mercenaires russes - comment la Centrafrique a brade une foret au groupe Wagner
     url: https://www.lesoir.be/456051/article/2022-07-26/bois-tropical-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret
   name: Le Soir
 - lang: [FR]
@@ -46,7 +46,7 @@ publications:
   name: Radio Television Suisse
 - lang: [RU]
   links:
-  - name: «Повар Путина» в африканском лесу
+  - name: Повар Путина в африканском лесу
     url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu
   name: Важные истории
 team_initiators: |-
