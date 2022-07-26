@@ -59,7 +59,7 @@ publications:
   name: Важные истории
   url: https://istories.media
 team_initiators: |-
-  [Radio Television Suisse](https://www.rts.ch/)(Dimitri Zufferey), [Mediapart]( https://www.mediapart.fr/)(Justine Brabant) and [OpenFacto](https://openfacto.fr/)(Team All Eyes on Wagner)
+  [Radio Television Suisse](https://www.rts.ch/)(Dimitri Zufferey), [Mediapart]( https://www.mediapart.fr/)(Justine Brabant) and [OpenFacto](https://openfacto.fr/) (Team All Eyes on Wagner).
 team_participants: |-
   **Reporting**
 
