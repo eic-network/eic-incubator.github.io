@@ -3,7 +3,7 @@ title: Bois Rouge
 intro: An investigation that is showing how the barter of conflict timber in exchange for Wagner mercenaries works in the Central African Republic
 description: |-
   Read about how the Central African Republic gave away its forest to the private military group Wagner. Because of the inefficiency of the timber controls in Europe, Wagner conflict timber cannot be stopped from reaching European clients, despite existing sanctions. Timber for Mercenaries was conducted in collaboration with [All Eyes on Wagner](https://alleyesonwagner.org/), a project by the French NGO [OpenFacto](https://openfacto.fr/). Read also about the methodology of doing such an investigation [here](https://alleyesonwagner.org/2022/07/26/come-follow-the-redwood-trees-tracking-wagners-forestry-business-in-car/). 
-publications:
+publications: 
 - lang: "[DE, EN]"
   links:
   - name: Wie die Zentralafrikanische Republik ihren Wald an Russland verscherbelte
@@ -52,7 +52,7 @@ publications:
     url: https://www.rts.ch/info/monde/13264727-quand-les-mercenaires-russes-de-wagner-deboisent-la-foret-centrafricaine.html
   name: Radio Television Suisse
   url: https://www.rts.ch/
-- lang: "[RU]"
+ - lang: "[RU]"
   links:
   - name: Повар Путина в африканском лесу
     url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu
@@ -71,4 +71,3 @@ team_participants: |-
   
  date: '2022-07-26 08:02:01'
 ---
-
