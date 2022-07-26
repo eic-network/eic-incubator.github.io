@@ -54,7 +54,7 @@ publications:
   url: https://www.rts.ch/
 - lang: "[RU]"
   links:
-  - name: Test
+  - name: Повар Путина в африканском лесу
     url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu
   name: Важные истории
   url: https://istories.media
