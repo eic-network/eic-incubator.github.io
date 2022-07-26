@@ -52,6 +52,12 @@ publications:
     url: https://www.rts.ch/info/monde/13264727-quand-les-mercenaires-russes-de-wagner-deboisent-la-foret-centrafricaine.html
   name: Radio Television Suisse
   url: https://www.rts.ch/
+- lang: "[IT]"
+  links:
+  - name: Così i russi di Wagner si sono presi una foresta in Centrafrica
+    url: https://www.ilfattoquotidiano.it/in-edicola/articoli/2022/07/26/cosi-i-russi-di-wagner-si-sono-presi-una-foresta-in-centrafrica/6742435/
+  name: Il Fatto Quotidiano
+  url: https://www.rts.ch/
 - lang: "[RU]"
   links:
   - name: Повар Путина в африканском лесу
