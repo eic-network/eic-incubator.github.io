@@ -1,14 +1,13 @@
 ---
 title: Bois Rouge
 intro: An investigation that is showing how the barter of conflict timber in exchange for Wagner mercenaries works in the Central African Republic
-  Read about how the Central African Republic gave away its forest to the private military group Wagner. Because of the inefficiency of the timber controls in Europe, #BoisRouge Wagner conflict timber cannot be stopped from reaching European clients, despite existing sanctions. Timber for Mercenaries was conducted in collaboration with [All Eyes on Wagner](https://alleyesonwagner.org/), a project by the French NGO [OpenFacto](https://openfacto.fr/). Read also about the methodology of doing such an investigation [here] (https://alleyesonwagner.org/2022/07/26/come-follow-the-redwood-trees-tracking-wagners-forestry-business-in-car/). 
+description: Read about how the Central African Republic gave away its forest to the private military group Wagner. Because of the inefficiency of the timber controls in Europe, #BoisRouge Wagner conflict timber cannot be stopped from reaching European clients, despite existing sanctions. Timber for Mercenaries was conducted in collaboration with [All Eyes on Wagner](https://alleyesonwagner.org/), a project by the French NGO [OpenFacto](https://openfacto.fr/). Read also about the methodology of doing such an investigation [here] (https://alleyesonwagner.org/2022/07/26/come-follow-the-redwood-trees-tracking-wagners-forestry-business-in-car/). 
 publications:
 - lang: "[DE, EN]"
   links:
   - name: Wie die Zentralafrikanische Republik ihren Wald an Russland verscherbelte
     url: https://www.spiegel.de/ausland/tropenholz-fuer-soeldner-wie-die-zentralafrikanische-republik-ihren-wald-an-russland-verscherbelte-a-ebb24a05-d9fd-43bf-8740-c5c84825dc84
   name: Der Spiegel
-  url: https://www.spiegel.de/
 - lang: "[ES]"
   links:
   - name: Madera para mercenarios rusos: así regaló la República Centroafricana un bosque a Wagner
@@ -49,7 +48,7 @@ publications:
   - name: «Повар Путина» в африканском лесу
     url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu/
   name: Важные истории
- team_initiators: |
+team_initiators: |-
   [Radio Television Suisse](https://www.rts.ch/)(Dimitri Zufferey), [Mediapart]( https://www.mediapart.fr/)(Justine Brabant) and [OpenFacto](https://openfacto.fr/)(Team All Eyes on Wagner)
 team_participants: |-
   **Reporting**
