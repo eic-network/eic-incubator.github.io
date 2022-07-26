@@ -34,7 +34,7 @@ publications:
     url: https://expresso.pt/sociedade/2022-07-26-Investigacao-a-floresta-de-sangue-dos-mercenarios-de-Putin-ad75beec
   name: Expresso
   url: https://expresso.pt
- - lang: "[FR, NL]"
+- lang: "[FR, NL]"
   links:
   - name: Hoe Russische huurlingen de handel in tropisch hout overnemen
     url: https://www.standaard.be/cnt/dmf20220725_97612819
