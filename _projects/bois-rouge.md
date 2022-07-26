@@ -1,11 +1,15 @@
 ---
 title: Bois Rouge
-intro: An investigation that is showing how the barter of conflict timber in exchange for Wagner mercenaries works in the Central African Republic
-description: |-
-  Read about how the Central African Republic gave away its forest to the private military group Wagner. Because of the inefficiency of the timber controls in Europe, Wagner conflict timber cannot be stopped from reaching European clients, despite existing sanctions. 
-  
-  Timber for Mercenaries was conducted in collaboration with [All Eyes on Wagner](https://alleyesonwagner.org/), a project by the French NGO [OpenFacto](https://openfacto.fr/). Read also about the methodology of doing such an investigation [here](https://alleyesonwagner.org/2022/07/26/come-follow-the-redwood-trees-tracking-wagners-forestry-business-in-car/). 
-publications: 
+intro: An investigation that is showing how the barter of conflict timber in exchange
+  for Wagner mercenaries works in the Central African Republic.
+description: "Read about how the Central African Republic gave away its forest to
+  the private military group Wagner. Because of the inefficiency of the timber controls
+  in Europe, Wagner conflict timber cannot be stopped from reaching European clients,
+  despite existing sanctions. \n\nTimber for Mercenaries was conducted in collaboration
+  with [All Eyes on Wagner](https://alleyesonwagner.org/), a project by the French
+  NGO [OpenFacto](https://openfacto.fr/). Read also about the methodology of doing
+  such an investigation [here](https://alleyesonwagner.org/2022/07/26/come-follow-the-redwood-trees-tracking-wagners-forestry-business-in-car/). "
+publications:
 - lang: "[DE, EN]"
   links:
   - name: Wie die Zentralafrikanische Republik ihren Wald an Russland verscherbelte
@@ -14,13 +18,15 @@ publications:
   url: https://www.spiegel.de/
 - lang: "[ES]"
   links:
-  - name: Madera para mercenarios rusos - así regaló la República Centroafricana un bosque a Wagner
+  - name: Madera para mercenarios rusos - así regaló la República Centroafricana un
+      bosque a Wagner
     url: https://www.infolibre.es/internacional/madera-mercenarios-rusos-regalo-republica-centroafricana-bosque-wagner_1_1289149.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[FR, EN, ES]"
   links:
-  - name: Bois contre mercenaires russes - comment la Centrafrique a brade une foret au groupe Wagner
+  - name: Bois contre mercenaires russes - comment la Centrafrique a brade une foret
+      au groupe Wagner
     url: https://www.mediapart.fr/journal/international/260722/bois-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret-au-groupe-wagner
   name: Mediapart
   url: https://www.mediapart.fr
@@ -44,7 +50,8 @@ publications:
   url: https://www.standaard.be/
 - lang: "[FR]"
   links:
-  - name: Bois tropical contre mercenaires russes - comment la Centrafrique a brade une foret au groupe Wagner
+  - name: Bois tropical contre mercenaires russes - comment la Centrafrique a brade
+      une foret au groupe Wagner
     url: https://www.lesoir.be/456051/article/2022-07-26/bois-tropical-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret
   name: Le Soir
   url: https://www.lesoir.be/
@@ -66,8 +73,9 @@ publications:
     url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu
   name: Важные истории
   url: https://istories.media
-team_initiators: |-
-  [Radio Television Suisse](https://www.rts.ch/) (Dimitri Zufferey), [Mediapart]( https://www.mediapart.fr/) (Justine Brabant) and [OpenFacto](https://openfacto.fr/) (Team All Eyes on Wagner).
+team_initiators: "[Radio Television Suisse](https://www.rts.ch/) (Dimitri Zufferey),
+  [Mediapart]( https://www.mediapart.fr/) (Justine Brabant) and [OpenFacto](https://openfacto.fr/)
+  (Team All Eyes on Wagner)."
 team_participants: |-
   **Reporting**
 
@@ -76,6 +84,6 @@ team_participants: |-
   **Project Design & Guide**
 
   Stefan Candea
-  
-date: '2022-07-26 08:02:01'
+date: 2022-07-26 08:02:01
+
 ---
