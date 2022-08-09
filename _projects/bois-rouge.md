@@ -67,6 +67,12 @@ publications:
     url: https://www.ilfattoquotidiano.it/in-edicola/articoli/2022/07/26/cosi-i-russi-di-wagner-si-sono-presi-una-foresta-in-centrafrica/6742435/
   name: Il Fatto Quotidiano
   url: https://www.rts.ch/
+- lang: "[DK]"
+  links:
+  - name: De russiske lejesoldater tager sig altid godt betalt. I guld, diamanter og olie. Nu har de fået appetit på andre rigdomme
+    url: https://politiken.dk/udland/art8896911/De-russiske-lejesoldater-tager-sig-altid-godt-betalt.-I-guld-diamanter-og-olie.-Nu-har-de-f%C3%A5et-appetit-p%C3%A5-andre-rigdomme
+  name: Politiken
+  url: https://politiken.dk/  
 - lang: "[RU]"
   links:
   - name: Повар Путина в африканском лесу
