@@ -7,7 +7,13 @@
   {% include home/header.html %}
   {% include nav.html %}
   <div class="container">
-    {% include home/content.html %}
+    {% include home/about.html %}
+
+    {% if site.data.collaborators %}
+      {% include home/collaborations.html %}
+    {% endif %}
+
+    {% include home/members.html %}
     {% include home/projects.html %}
     {% include home/contact.html %}
   </div>
