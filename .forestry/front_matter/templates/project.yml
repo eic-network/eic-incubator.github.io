@@ -1,0 +1,45 @@
+---
+label: Project
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: intro
+  label: intro
+- type: textarea
+  name: description
+  label: description
+- type: field_group_list
+  name: publications
+  label: publications
+  fields:
+  - type: text
+    name: lang
+    label: lang
+  - type: field_group_list
+    name: links
+    label: links
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: textarea
+      name: url
+      label: url
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: url
+    label: url
+- type: textarea
+  name: team_initiators
+  label: team_initiators
+- type: textarea
+  name: team_participants
+  label: team_participants
+- type: datetime
+  name: date
+  label: date
