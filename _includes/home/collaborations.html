@@ -19,9 +19,9 @@
                     }
                 </style>
 
-                {% for partner in site.data.collaborators %}
+                {% for collaborator in site.data.collaborators %}
                 <div class="col-md-3 collaborator">
-                    <a href="{{ collaborator.url }}" name="{{ collaborator.name }}" target="_blank" class="collaborator-logo" style="background-image:url('/assets/images/collaborator/{{ collaborator.image }}')"></a>
+                    <a href="{{ collaborator.url }}" name="{{ collaborator.name }}" target="_blank" class="collaborator-logo" style="background-image:url('/assets/images/collaborators/{{ collaborator.image }}')"></a>
                 </div>
                 {% endfor %}
             </div>
