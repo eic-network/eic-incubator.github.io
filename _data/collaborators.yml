@@ -11,8 +11,8 @@
   url: https://www.tdg.ch/
   image: TdG.png
 - name:
-  url: https://theblacksea.eu/
-  image: TheBlackSea.png
+  url: https://www.newsweek.com/
+  image: newsweek.svg
 - name:
   url: https://web.archive.org/web/20200805052515/https://crji.org/?idT=108&idC=108
   image: crji.jpg
@@ -32,8 +32,8 @@
   url: https://www.ndr.de/
   image: ndr.png
 - name:
-  url: https://www.newsweek.com/
-  image: newsweek.svg
+  url: https://theblacksea.eu/
+  image: TheBlackSea.png
 - name:
   url: https://www.reuters.com/
   image: reuters.png
