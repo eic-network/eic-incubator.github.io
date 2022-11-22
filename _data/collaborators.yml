@@ -40,3 +40,6 @@
 - name:
   url: https://www.thestar.com/
   image: sundaytimes.JPG
+- name:
+  url: https://www.tamedia.ch/
+  image: tamedia.svg
