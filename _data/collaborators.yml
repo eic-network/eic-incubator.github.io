@@ -2,6 +2,9 @@
   url: https://www.bbc.co.uk
   image: bbc.gif
 - name:
+  url: https://www.thetimes.co.uk/
+  image: torontostar.png
+- name:
   url: https://www.bloomberg.com/
   image: Bloomberg.jpg
 - name:
@@ -37,6 +40,3 @@
 - name:
   url: https://www.thestar.com/
   image: sundaytimes.JPG
-- name:
-  url: https://www.thetimes.co.uk/
-  image: torontostar.png
