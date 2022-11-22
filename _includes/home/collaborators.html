@@ -12,7 +12,7 @@
                     .collaborator-logo {
                         background-repeat: no-repeat;
                         background-position: 50% 50%;
-                        height: 100px;
+                        height: 60px;
                         width: calc(100% - 5px);
                         background-size: contain;
                         display: block;
@@ -20,7 +20,7 @@
                 </style>
 
                 {% for collaborator in site.data.collaborators %}
-                <div class="col-md-3 collaborator">
+                <div class="col-md-2 collaborator">
                     <a href="{{ collaborator.url }}" name="{{ collaborator.name }}" target="_blank" class="collaborator-logo" style="background-image:url('/assets/images/collaborators/{{ collaborator.image }}')"></a>
                 </div>
                 {% endfor %}
