@@ -1,6 +1,6 @@
 - name:
   url: https://www.bbc.co.uk
-  image: bbc.gif
+  image: bbc.svg
 - name:
   url: https://www.thetimes.co.uk/
   image: torontostar.png
