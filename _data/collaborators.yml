@@ -1,3 +1,42 @@
 - name:
   url: https://www.bbc.co.uk
   image: bbc.gif
+- name:
+  url: https://www.bloomberg.com/
+  image: Bloomberg.jpg
+- name:
+  url: https://www.tdg.ch/
+  image: TdG.png
+- name:
+  url: https://theblacksea.eu/
+  image: TheBlackSea.png
+- name:
+  url: https://web.archive.org/web/20200805052515/https://crji.org/?idT=108&idC=108
+  image: crji.jpg
+- name:
+  url: https://www.dn.se/
+  image: dn_logo.png
+- name:
+  url: https://www.elmundo.es/
+  image: elmundo.jpg
+- name:
+  url: https://www.falter.at/
+  image: falter.jpg
+- name:
+  url: https://espresso.repubblica.it/
+  image: lespresso.png
+- name:
+  url: https://www.ndr.de/
+  image: ndr.png
+- name:
+  url: https://www.newsweek.com/
+  image: newsweek.svg
+- name:
+  url: https://www.reuters.com/
+  image: reuters.png
+- name:
+  url: https://www.thestar.com/
+  image: sundaytimes.JPG
+- name:
+  url: https://www.thetimes.co.uk/
+  image: torontostar.png
