@@ -64,8 +64,8 @@ publications:
   url: https://www.nrc.nl
 - lang: "[PT]"
   links:
-  - name: 
-    url: 
+  - name: Mercenários de Putin roubam diamantes em África
+    url: https://leitor.expresso.pt/semanario/semanario2614/html/primeiro-caderno/internacional/mercenarios-de-putin-roubam-diamantes-em-africa
   name: Expresso
   url: https://expresso.pt
 - lang: "[DK]"
@@ -98,7 +98,7 @@ team_initiators: "[Radio Television Suisse](https://www.rts.ch/) (Dimitri Zuffer
 team_participants: |2-
     **Reporting**
 
-    Team All Eyes on Wagner, Justine Brabant (Mediapart), Dimitri Zufferey (Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Il Fatto Quotidiano), Alain Jennotte (Le Soir), Nicola Naber, Rafael Buschmann (DER SPIEGEL).
+    Team All Eyes on Wagner, Justine Brabant (Mediapart), Kasper Goethals (De Standaard), Dimitri Zufferey (Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Il Fatto Quotidiano), Alain Jennotte (Le Soir), Nicola Naber, Rafael Buschmann (DER SPIEGEL).
 
     **Project Design & Guide**
 
