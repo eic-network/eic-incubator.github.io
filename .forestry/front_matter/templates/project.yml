@@ -43,3 +43,5 @@ fields:
 - type: datetime
   name: date
   label: date
+pages:
+- _projects/diamville.md
