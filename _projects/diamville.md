@@ -70,8 +70,8 @@ publications:
   url: https://expresso.pt
 - lang: "[DK]"
   links:
-  - name: 
-    url: 
+  - name: Russiske lejesoldater har bånd til diamanthandel i Afrika
+    url: https://politiken.dk/udland/art9105958/Russiske-lejesoldater-har-b%C3%A5nd-til-diamanthandel-i-Afrika
   name: Politiken
   url: https://politiken.dk/   
 - lang: "[NO]"
