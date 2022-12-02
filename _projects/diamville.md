@@ -2,7 +2,7 @@
 title: Diamville
 intro: A deep dive into how Wagner mercenaries are taking over the diamonds of Central
   African Republic.
-description: "After we exposed [Bois Ruge](https://eic.network/projects/bois-rouge.html)
+description: "After we exposed [Bois Rouge](https://eic.network/projects/bois-rouge.html)
   as a vehicle of the Wagner group grabbing the exotic timber of CAR in exchange of
   mercenaries, we looked closer at a company established at exactly the same time: Diamville.
   \n\nThe research has unraveled a unique construct that overlaps Wagner military,
