@@ -10,7 +10,7 @@ description: "After we exposed [Bois Rouge](https://eic.network/projects/bois-ro
   the shadows of a single entity. Investigating DiamVille reveals how Russian mercenaries
   are looting & exporting Centrafrican diamonds to Europe via Belgium, while marketing
   per Facebook to a global clientele. \n\nThe investigation was done in collaboration
-  with with [All Eyes on Wagner](https://alleyesonwagner.org/) and [The Dossier Center](https://dossier.center/)."
+  with [All Eyes on Wagner](https://alleyesonwagner.org/) and [The Dossier Center](https://dossier.center/)."
 publications:
 - lang: "[FR, EN, ES]"
   links:
