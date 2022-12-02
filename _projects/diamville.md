@@ -62,6 +62,6 @@ team_participants: |2-
 
     Stefan Candea
 date: 
-published: false
+published: true
 
 ---
