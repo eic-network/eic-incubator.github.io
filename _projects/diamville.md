@@ -61,7 +61,6 @@ team_participants: |2-
     **Project Design & Guide**
 
     Stefan Candea
-date: 
-published: true
+date: 2022-12-02 08:02:01
 
 ---
