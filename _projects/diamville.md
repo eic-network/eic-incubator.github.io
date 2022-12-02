@@ -98,7 +98,7 @@ team_initiators: "[Radio Television Suisse](https://www.rts.ch/) (Dimitri Zuffer
 team_participants: |2-
     **Reporting**
 
-    Team All Eyes on Wagner, Justine Brabant (Mediapart), Kasper Goethals (De Standaard), Dimitri Zufferey (Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Il Fatto Quotidiano), Alain Jennotte (Le Soir), Nicola Naber, Rafael Buschmann (DER SPIEGEL).
+    Team All Eyes on Wagner, Justine Brabant (Mediapart), Kasper Goethals (De Standaard), Dimitri Zufferey (Radio Television Suisse), Micael Pereira (Expresso), Stefano Vergine (Il Fatto Quotidiano), Alain Jennotte (Le Soir), Nicola Naber, Rafael Buschmann (DER SPIEGEL), Begona Ramirez (infoLibre).
 
     **Project Design & Guide**
 
