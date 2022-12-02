@@ -50,6 +50,36 @@ publications:
     url: https://www.ilfattoquotidiano.it/in-edicola/articoli/2022/12/02/wagner-group-expands-its-grip-on-the-diamond-sector-in-the-central-african-republic/6893369/     
   name: Il Fatto Quotidiano
   url: https://www.ilfattoquotidiano.it/
+- lang: "[DE, EN]"
+  links:
+  - name:
+    url: 
+  name: Der Spiegel
+  url: https://www.spiegel.de/
+- lang: "[NL]"
+  links:
+  - name: 
+    url: 
+  name: NRC
+  url: https://www.nrc.nl
+- lang: "[PT]"
+  links:
+  - name: 
+    url: 
+  name: Expresso
+  url: https://expresso.pt
+- lang: "[DK]"
+  links:
+  - name: 
+    url: 
+  name: Politiken
+  url: https://politiken.dk/   
+- lang: "[NO]"
+  links:
+  - name: 
+    url: 
+  name: VG
+  url: https://www.vg.no/ 
 - lang: "[FR, EN]"
   links:
   - name: CAR - Prigozhin's blood diamonds
