@@ -50,6 +50,18 @@ publications:
     url: https://www.ilfattoquotidiano.it/in-edicola/articoli/2022/12/02/wagner-group-expands-its-grip-on-the-diamond-sector-in-the-central-african-republic/6893369/     
   name: Il Fatto Quotidiano
   url: https://www.ilfattoquotidiano.it/
+- lang: "[FR, EN]"
+  links:
+  - name: CAR - Prigozhin's blood diamonds
+    url: https://alleyesonwagner.org/2022/12/02/car-prigozhins-blood-diamonds/
+  name: All Eyes on Wagner
+  url: https://alleyesonwagner.org/
+- lang: "[RU]"
+  links:
+  - name: Лучшие друзья Пригожина - Люди «повара» Путина занялись торговлей алмазами в ЦАР
+    url: https://dossier.center/diamonds/ 
+  name: The Dossier Center
+  url: https://dossier.center/
 team_initiators: "[Radio Television Suisse](https://www.rts.ch/) (Dimitri Zufferey),
   [Mediapart]( https://www.mediapart.fr/) (Justine Brabant) and [OpenFacto](https://openfacto.fr/)(Team
   All Eyes on Wagner)."
