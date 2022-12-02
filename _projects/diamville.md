@@ -51,9 +51,9 @@ publications:
   name: Il Fatto Quotidiano
   url: https://www.ilfattoquotidiano.it/
 - lang: "[DE, EN]"
-  links:
-  - name:
-    url: 
+  links: 
+  - name: Wie die »Wagner-Gruppe« mit Diamanten aus Afrika Geschäfte macht
+    url: https://www.spiegel.de/ausland/wagner-gruppe-wie-die-russische-soeldnergruppen-mit-diamanten-aus-afrika-geschaefte-macht-a-18c4f0ea-d74d-43c4-a121-9132d6347f2a
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[NL]"
