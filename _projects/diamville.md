@@ -4,7 +4,7 @@ intro: A deep dive into how Wagner mercenaries are taking over the diamonds of C
   African Republic.
 description: "After we exposed [Bois Ruge](https://eic.network/projects/bois-rouge.html)
   as a vehicle of the Wagner group grabbing the exotic timber of CAR in exchange of
-  mercenaries, we looked closer at a company established in the same day: Diamville.
+  mercenaries, we looked closer at a company established at exactly the same time: Diamville.
   \n\nThe research has unraveled a unique construct that overlaps Wagner military,
   Prigozhin commercial operations, diamond mining, looting and exporting - all in
   the shadows of a single entity. Investigating DiamVille reveals how Russian mercenaries
@@ -93,7 +93,7 @@ publications:
   name: The Dossier Center
   url: https://dossier.center/
 team_initiators: "[Radio Television Suisse](https://www.rts.ch/) (Dimitri Zufferey),
-  [Mediapart]( https://www.mediapart.fr/) (Justine Brabant) and [OpenFacto](https://openfacto.fr/)(Team
+  [Mediapart]( https://www.mediapart.fr/) (Justine Brabant) and [OpenFacto](https://openfacto.fr/) (Team
   All Eyes on Wagner)."
 team_participants: |2-
     **Reporting**
