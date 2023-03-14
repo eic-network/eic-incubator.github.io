@@ -46,9 +46,11 @@ jobs:
       - name: Setup Yarn
         run: npm install -g yarn
       - name: Setup jekyll gem
-        run: gem install jekyll
+        run: gem install jekyll bundler
       - name: Install Node packages
         run: yarn
+      - name: Install Ruby bundle
+        run: bundle
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
