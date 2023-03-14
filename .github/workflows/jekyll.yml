@@ -43,8 +43,10 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
-      - name: Setup package managers and Node dependencies
+      - name: Setup Yarn
         run: npm install -g yarn
+      - name: Setup jekyll gem
+        run: gem install jekyll
       - name: Install Node packages
         run: yarn
       - name: Setup Pages
