@@ -5,6 +5,13 @@
             <div class="col-md-12">
                 <h2 class="heading">Projects</h2>
             </div>
+            <div class="col-md-12">
+                <p class="projects-intro">
+                    The EIC incubator is an expansion of the EIC.network, working in the public 
+                    interest, and our shared portfolio can be found here: 
+                    <a href="https://eic.network/#projects">https://eic.network/#projects</a>.
+                </p>
+            </div>
         </div>
     </div>
     <div class="container-fluid">
@@ -13,9 +20,9 @@
             <div class="col-sm-4 col-md-4">
                 <div class="box">
                     <div style="padding: 0 20px; min-height: 450px;">
-                        <h4><a href="{{ project.url }}">{{ project.title }}</a></h4>
+                        <h4><a href="//eic.network{{ project.url }}">{{ project.title }}</a></h4>
                         <p><b>{{  project.intro }}</b>{{ project.description | truncatewords: 60 | markdownify}}</p>
-                        <a href="{{ project.url }}" class="btn btn-primary">&raquo; more</a>
+                        <a href="//eic.network{{ project.url }}" class="btn btn-primary">&raquo; more</a>
                     </div>
                 </div>
             </div>

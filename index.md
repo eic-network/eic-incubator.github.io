@@ -31,8 +31,22 @@ about_right: |-
   EIC is putting together different mind-sets, organization types and skills. This is insuring a flow of new challenges, ideas and approaches. Our aim is to build a European network to focus on independent, high-quality cross-border and European investigative journalism projects.
 
   Our focus areas: (un)organized crime, environment, sport, public spending, corporate corruption, lobby, public health, religious groups, state aid, military & secret services, banks & finance, labor markets, migration.
+problems: |-
+  - Resources for network investigations are centralized and controlled by intermediaries outside of the actual newsrooms.
+  - While there are some initiatives out there, no investigative network brings intentional focus to the biggest topic today: climate collapse and how it impacts our society.
+  - Collaborative intestigative tech infrastructures are expensive and struggling to keep up with the current independence and security challenges as well as with the growing colume of news leaks
+solution: |-
+  - Creating a direct gateway to a pool of investigative skills from the inside and outside of the news world, powered by a uniwue partnership between a dozen European leading newsrooms.
+  - Leveraging our thematic experience in investigating Offshore and Organized Crime, and spin it towards other thematic topics, by bridging existing academic research with journalistic techniques.
+  - Cutting costs by combining across borders the newsrooms investigative skills & amrketing power & audience impact. Develop and maintain independent cutting edge technology to facilitate investigative collaborations
+value: |-
+  The EIC Incubator is a One-Stop-Shop for turnkey investigative collaborations with a focus on climate collapse, society and beyond, bridging news and academia, for the public interest.
+beneficiaries: |-
+  - Citizens, the broad public
+  - The EIC Incubator research and publication partners
+  - The EIC network
 ---
 
-Our primary purpose is the joint reporting and publication of investigative journalism with a focus on European topics to understand how power structures affect European communities.
+The EIC.network and the EIC Incubator signed a joint venture agreement, pooling together resources, in the interest of European investigative journalism.
 
 [Read more](/blog/eic-workflow)

@@ -1,11 +1,39 @@
 <section id="about">
+    <h2 class="heading">About us</h2>
+
     <div class="container clearfix">
         <div class="row">
-            <h2 class="heading">About us</h2>
-            <div class="col-md-2">
+            <div class="col-md-12">
+                <div class="about-text">
+                    {{ page.content | markdownify }}
+                </div>
             </div>
-            <div class="col-md-8">
-                {{ page.content | markdownify }}
+        </div>
+        <div class="row">
+            <div class="col-md-3">
+                <div class="about-title-block">The problem(s)</div>
+                <div class="about-column">
+                    {{ page.problems | markdownify }}
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="about-title-block">The solution</div>
+                <div class="about-column">
+                    {{ page.solution | markdownify }}
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="about-title-block">Value proposition</div>
+                <div class="about-column">
+                    {{ page.value | markdownify }}
+                </div>
+
+            </div>
+            <div class="col-md-3">
+                <div class="about-title-block">Beneficiaries</div>
+                <div class="about-column">
+                    {{ page.beneficiaries | markdownify }}
+                </div>
             </div>
         </div>
     </div>

@@ -1,0 +1,160 @@
+* {
+    font-family: 'Quicksand' !important;
+}
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+.orange-text{
+    color: #f15822;
+}
+h2 {
+    color: #f15822;
+    text-transform: none;
+    font-family: 'Quicksand';
+}
+.orange-bg {
+    color: white;
+    background: #f15822;
+}
+img.eic-logo-top-left {
+    width: 120px;
+    position: absolute;
+    left: 1rem;
+    top: 1rem;
+    opacity: .7;
+}
+
+/*
+==================
+INTRO
+==================
+*/
+
+section#intro .content {
+    height: 100%;
+}
+section#intro h1.eic-heading, 
+section#intro h1.eic-heading *{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif !important; 
+    margin-bottom: auto;
+}
+section#intro .orange-text{
+    color: #f15822;
+    text-transform: none;
+}
+section#intro .black-text {
+    color: black;
+}
+section#intro h1.eic-subheading {
+    color: black;
+    font-weight: 900;
+}
+section#intro .lead {
+    color: #333
+}
+section#intro div.bottom {
+    position: absolute;
+    margin-bottom: 0;
+}
+section#intro .byline {
+    color: #333;
+    text-align: right;
+    display: table-cell;
+    height: 72px;
+    width: 100%;
+    vertical-align: middle;
+}
+section#intro img.eic-logo-bottom-right {
+    height: 72px;
+}
+
+
+/*
+===========
+NAVBAR
+===========
+*/
+
+.navbar-brand img {
+    height: 72px;
+    opacity: 0.7;
+}
+
+.navigation ul.nav {
+    margin-top: 24px;
+}
+
+
+/*
+============
+ABOUT BLOCKS
+============
+*/
+section#about div.about-text p {
+    font-size: 24px;
+}
+section#about div.about-text a {
+    font-size: 14px;
+}
+section#about div.about-title-block {
+    background-color: #f15822;
+    padding: 10px;
+    text-transform: uppercase;
+    color: white;
+    text-align: center;
+    font-weight: 100;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+section#about div.about-column li {
+    text-align: center;
+    padding: 1rem;
+}
+
+
+/*
+============
+  PROJECTS
+============
+*/
+
+section#projects p.projects-intro{
+    font-size: 2rem;
+}
+
+
+/*
+============
+    TEAM
+============
+*/
+section#team div.row div.team-member {
+    min-height: 200px;
+}
+section#team img {
+    width: 100%;
+}
+section#team span.team-member-link,
+section#team span.team-member-title {
+    width: 100%;
+    text-align: center;
+    display: block;
+    font-size: 1.5rem;
+    padding: 1rem;
+}
+section#team span.team-member-link {
+    padding: 0rem;
+}
+
+
+/*
+=========
+ CONTACT
+=========
+*/
+section#contact .contact-text {
+    font-size: 2rem;
+    text-align: center;
+}

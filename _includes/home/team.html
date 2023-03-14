@@ -1,0 +1,18 @@
+<section id="team">
+    <h2 class="heading">Team</h2>
+    <div class="container-fluid">
+        <div class="row">
+            {% for member in site.data.team %}
+                {% include home/team-member.html %}
+            {% endfor %}
+        </div>
+    </div>
+    <div class="container-fluid" style="text-align: center;">
+        <h2 class="heading">Supervisory Board</h2>
+        <div class="row">
+            {% for member in site.data.board %}
+                {% include home/team-member.html %}
+            {% endfor %}
+        </div>
+    </div>
+</section>
