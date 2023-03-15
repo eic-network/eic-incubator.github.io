@@ -57,6 +57,7 @@ jobs:
       - name: Build TinaCMS
         env:
           CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
+          TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}\
           JEKYLL_ENV: production
         run: npm run build
