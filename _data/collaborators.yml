@@ -1,45 +1,32 @@
-- name:
-  url: https://www.bbc.co.uk
-  image: bbc.svg
-- name:
-  url: https://www.thetimes.co.uk/
-  image: torontostar.png
-- name:
-  url: https://www.bloomberg.com/
-  image: Bloomberg.svg
-- name:
-  url: https://www.tdg.ch/
-  image: TdG.png
-- name:
-  url: https://www.newsweek.com/
-  image: newsweek.svg
-- name:
-  url: https://web.archive.org/web/20200805052515/https://crji.org/?idT=108&idC=108
-  image: crji.jpg
-- name:
-  url: https://www.dn.se/
-  image: dn_logo.png
-- name:
-  url: https://www.elmundo.es/
-  image: elmundo.jpg
-- name:
-  url: https://www.falter.at/
-  image: falter.jpg
-- name:
-  url: https://espresso.repubblica.it/
-  image: lespresso.png
-- name:
-  url: https://www.ndr.de/
-  image: ndr.png
-- name:
-  url: https://theblacksea.eu/
-  image: TheBlackSea.png
-- name:
-  url: https://www.reuters.com/
-  image: reuters.png
-- name:
-  url: https://www.thestar.com/
-  image: sundaytimes.JPG
-- name:
-  url: https://www.tamedia.ch/
-  image: tamedia.svg
+items:
+  - image: /assets/images/collaborators/bbc.svg
+    url: 'https://www.bbc.co.uk'
+  - image: torontostar.png
+    url: 'https://www.thetimes.co.uk/'
+  - image: Bloomberg.svg
+    url: 'https://www.bloomberg.com/'
+  - image: /assets/images/collaborators/TdG.png
+    url: 'https://www.tdg.ch/'
+  - image: /assets/images/collaborators/newsweek.svg
+    url: 'https://www.newsweek.com/'
+  - image: /assets/images/collaborators/crji.jpg
+    url: >-
+      https://web.archive.org/web/20200805052515/https://crji.org/?idT=108&idC=108
+  - image: /assets/images/collaborators/dn_logo.png
+    url: 'https://www.dn.se/'
+  - image: /assets/images/collaborators/elmundo.jpg
+    url: 'https://www.elmundo.es/'
+  - image: /assets/images/collaborators/falter.jpg
+    url: 'https://www.falter.at/'
+  - image: /assets/images/collaborators/lespresso.png
+    url: 'https://espresso.repubblica.it/'
+  - image: /assets/images/collaborators/ndr.png
+    url: 'https://www.ndr.de/'
+  - image: /assets/images/collaborators/TheBlackSea.png
+    url: 'https://theblacksea.eu/'
+  - image: /assets/images/collaborators/reuters.png
+    url: 'https://www.reuters.com/'
+  - image: ''
+    url: 'https://www.thestar.com/'
+  - image: /assets/images/collaborators/tamedia.svg
+    url: 'https://www.tamedia.ch/'

@@ -12,6 +12,10 @@ markdown: kramdown
 collections:
   projects:
     output: true
+  projects_archive:
+    output: true
+  templates:
+    output: false  
 
 defaults:
   -

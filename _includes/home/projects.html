@@ -1,4 +1,6 @@
 {% assign projects = site.projects | sort: 'date' | reverse %}
+{% assign projects_count = projects | size %}
+{% if projects_count %}
 <section id="projects" class="no-padding-bottom">
     <div class="container">
         <div class="row">
@@ -9,7 +11,7 @@
                 <p class="projects-intro">
                     The EIC incubator is an expansion of the EIC.network, working in the public 
                     interest, and our shared portfolio can be found here: 
-                    <a href="https://eic.network/#projects">https://eic.network/#projects</a>.
+                    <a href="/#projects">projects</a>.
                 </p>
             </div>
         </div>
@@ -17,16 +19,9 @@
     <div class="container-fluid">
         <div class="row">
         {% for project in projects %}
-            <div class="col-sm-4 col-md-4">
-                <div class="box">
-                    <div style="padding: 0 20px; min-height: 450px;">
-                        <h4><a href="//eic.network{{ project.url }}">{{ project.title }}</a></h4>
-                        <p><b>{{  project.intro }}</b>{{ project.description | truncatewords: 60 | markdownify}}</p>
-                        <a href="//eic.network{{ project.url }}" class="btn btn-primary">&raquo; more</a>
-                    </div>
-                </div>
-            </div>
+            {% include home/cards/project.html %}
         {% endfor %}
         </div>
     </div>
 </section>
+{% endif %}

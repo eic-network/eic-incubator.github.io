@@ -100,6 +100,8 @@ INTRO
 }
 .intro p {
     font-size: 23px;
+    margin: 0 auto;
+    padding: 0 auto;
 }
 @media (min-width: 1200px) {
     .intro h1 {

@@ -49,4 +49,4 @@ beneficiaries: |-
 
 The EIC.network and the EIC Incubator signed a joint venture agreement, pooling together resources, in the interest of European investigative journalism.
 
-[Read more](/blog/eic-workflow)
+[Read more](/blog/about-us)

@@ -1,16 +1,15 @@
-- name: 
-  image: https://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
-  title: Director
-  url: https://eic.network/
-- name: 
-  image: http://www.orientalische-nacht-leipzig.de/images/kunst/nachm_andreea-bonea2015.jpg
-  title: Fundraising & Operational Management
-  url: https://eic.network/
-- name: 
-  image: https://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
-  title: Director
-  url: https://eic.network/
-- name: 
-  image: http://www.orientalische-nacht-leipzig.de/images/kunst/nachm_andreea-bonea2015.jpg
-  title: Fundraising & Operational Management
-  url: https://eic.network/
+items:
+  - image: >-
+      https://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
+    title: Director
+    url: 'https://eic.network/'
+  - image: /assets/images/IMG_5904.jpg
+    title: Fundraising & Operational Management
+    url: 'https://eic.network/'
+  - image: >-
+      https://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
+    title: Another Director
+    url: 'https://eic.network/'
+  - image: /assets/images/1569271330813.jpeg
+    title: 'Fundraising & Operational Management #3'
+    url: 'https://eic.network/'

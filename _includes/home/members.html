@@ -1,0 +1,27 @@
+<section id="{{include.custom_id}}">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h2 class="heading">{{include.title}}</h2>
+            </div>
+            <div class="col-md-12">
+                <p class="{{include.custom_id}}-intro">
+                    {{include.content | markdownify}}
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row">
+            {% if include.subcollection == "team" %}
+                {% for member in site.data.team.items %}
+                    {% include {{include.list_template}}.html %}
+                {% endfor %}
+            {% elsif include.subcollection == "board" %}
+                {% for member in site.data.board.items %}
+                    {% include {{include.list_template}}.html %}
+                {% endfor %}
+            {% endif %}
+        </div>
+    </div>
+</section>

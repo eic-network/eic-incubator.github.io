@@ -1,19 +1,31 @@
 <section id="intro" class="intro">
-    <!-- <div class="overlay" style="background-color: #fff"></div> -->
+<style>
+    section#intro:before {
+        content: ' ';
+        display: block;
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        opacity: 0.2;
+        background-repeat: no-repeat;
+        background-position: 50% 0;
+        background-color: {{include.color}}; 
+        background-image: url({{site.url}}/{{include.image}}); 
+        background-size: cover;
+    }
+</style>
+    <div class="overlay" style="background-color: #fff;"></div>
     <img src="{{ site.url }}/assets/images/eic.logo.image.svg" class="eic-logo-top-left">
     <div class="content row vertical-align">
         <div class="col-md-12 col-sm-12">
             <h1 class="eic-heading">
                 <span class="black-text">EIC</span> <span class="orange-text">Incubator</span>
             </h1>
-            <p class="eic-subheading" style="color:#000000;">
-                Investigating 
-                <span class="orange-text">climate</span> collapse,
-                <span class="orange-text">society</span> and
-                <span class="orange-text">beyond</span>
-            </p>
             <div class="lead">
-                {{ site.home[0].intro | markdownify }}11
+                
+                {{ include.content | markdownify }}
             </div>
             <div class="container">
                 <div class="row">

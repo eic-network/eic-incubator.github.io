@@ -1,24 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
 
+{% assign pages = site.templates | where: "role", "home" %}
+{% assign home = pages[0] %}
+{% assign before = home.sections | where: "positioning", "before" | where: "displayed", "true" %}
+{% assign content = home.sections | where: "positioning", "inside" | where: "displayed", "true" %}
+{% assign after = home.sections | where: "positioning", "after" | where: "displayed", "true" %}
+
+
 {% include head.html %}
 
 <body data-spy="scroll" data-target="#navigation" data-offset="120">
-  {% include home/header.html %}
-  {% include nav.html %}
-  <div class="container">
-    {% include home/about.html %}
 
-    {% include home/projects.html %}
+{% for section in before %}
+    {% if section.template %}
+        {% include {{section.template}}.html 
+        title=section.title
+        content=section.content
+        custom_id=section.custom_id
+        list_template=section.list_template
+        collection=section.collection
+        subcollection=section.subcollection
+        color=section.color
+        image=section.image
+        %}
+    {% endif %}
+{% endfor %}
 
-    {% include home/team.html %}
+<div class="container">
+    {% for section in content %}
+        {% include {{section.template}}.html 
+        title=section.title
+        content=section.content
+        custom_id=section.custom_id
+        list_template=section.list_template
+        collection=section.collection
+        subcollection=section.subcollection
+        color=section.color
+        image=section.image
+        %}
+    {% endfor %}
 
-    {% include home/research.html %}
+</div>
 
-    {% include home/contact.html %}
-  </div>
+    {% for section in after %}
+        {% include {{section.template}}.html 
+        title=section.title
+        content=section.content
+        custom_id=section.custom_id
+        list_template=section.list_template
+        collection=section.collection
+        subcollection=section.subcollection
+        %}
+    {% endfor %}
 
-  {% include footer.html %}
   {% include scripts.html %}
 </body>
 

@@ -1,16 +1,10 @@
-- name: 
-  image: https://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
-  title: Board Director
-  url: https://eic.network/
-- name: 
-  image: http://www.orientalische-nacht-leipzig.de/images/kunst/nachm_andreea-bonea2015.jpg
-  title: Board Fundraising & Operational Management
-  url: https://eic.network/
-- name: 
-  image: https://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
-  title: Board Director
-  url: https://eic.network/
-- name: 
-  image: http://www.orientalische-nacht-leipzig.de/images/kunst/nachm_andreea-bonea2015.jpg
-  title: Board Fundraising & Operational Management
-  url: https://eic.network/
+items:
+  - image: 'https://www.cognitrom.ro/wp-content/uploads/logo-cognitrom-3.png'
+    title: Cognitrom
+    url: 'https://www.cognitrom.ro/'
+  - image: /assets/images/eic.logo.image.svg
+    title: EIC
+    url: 'https://eic.network/'
+  - image: /assets/images/IMG_5904.jpg
+    title: Zelda
+    url: 'https://eic.network/zelda'

@@ -51,8 +51,13 @@ section#intro h1.eic-subheading {
     color: black;
     font-weight: 900;
 }
-section#intro .lead {
+section#intro .lead,
+section#intro .lead * {
     color: #333
+}
+section#intro .lead p {
+    margin: 0 auto;
+    padding: 0 auto;
 }
 section#intro div.bottom {
     position: absolute;
