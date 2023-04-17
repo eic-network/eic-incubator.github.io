@@ -12,71 +12,71 @@ description: "Read about how the Central African Republic gave away its forest t
 publications:
 - lang: "[DE, EN]"
   links:
-  - name: Wie die Zentralafrikanische Republik ihren Wald an Russland verscherbelte
-    url: https://www.spiegel.de/ausland/tropenholz-fuer-soeldner-wie-die-zentralafrikanische-republik-ihren-wald-an-russland-verscherbelte-a-ebb24a05-d9fd-43bf-8740-c5c84825dc84
+  - link_name: Wie die Zentralafrikanische Republik ihren Wald an Russland verscherbelte
+    link_url: https://www.spiegel.de/ausland/tropenholz-fuer-soeldner-wie-die-zentralafrikanische-republik-ihren-wald-an-russland-verscherbelte-a-ebb24a05-d9fd-43bf-8740-c5c84825dc84
   name: Der Spiegel
   url: https://www.spiegel.de/
 - lang: "[ES]"
   links:
-  - name: Madera para mercenarios rusos - así regaló la República Centroafricana un
+  - link_name: Madera para mercenarios rusos - así regaló la República Centroafricana un
       bosque a Wagner
-    url: https://www.infolibre.es/internacional/madera-mercenarios-rusos-regalo-republica-centroafricana-bosque-wagner_1_1289149.html
+    link_url: https://www.infolibre.es/internacional/madera-mercenarios-rusos-regalo-republica-centroafricana-bosque-wagner_1_1289149.html
   name: infoLibre
   url: https://www.infolibre.es/
 - lang: "[FR, EN, ES]"
   links:
-  - name: Bois contre mercenaires russes - comment la Centrafrique a brade une foret
+  - link_name: Bois contre mercenaires russes - comment la Centrafrique a brade une foret
       au groupe Wagner
-    url: https://www.mediapart.fr/journal/international/260722/bois-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret-au-groupe-wagner
+    link_url: https://www.mediapart.fr/journal/international/260722/bois-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret-au-groupe-wagner
   name: Mediapart
   url: https://www.mediapart.fr
 - lang: "[NL]"
   links:
-  - name: Hout en goud in ruil voor militaire inzet Wagner
-    url: https://www.nrc.nl/nieuws/2022/07/25/hout-en-goud-in-ruil-voor-militaire-inzet-wagner-a4137382
+  - link_name: Hout en goud in ruil voor militaire inzet Wagner
+    link_url: https://www.nrc.nl/nieuws/2022/07/25/hout-en-goud-in-ruil-voor-militaire-inzet-wagner-a4137382
   name: NRC
   url: https://www.nrc.nl
 - lang: "[PT]"
   links:
-  - name: Investigação - a floresta de sangue dos mercenários de Putin
-    url: https://expresso.pt/sociedade/2022-07-26-Investigacao-a-floresta-de-sangue-dos-mercenarios-de-Putin-ad75beec
+  - link_name: Investigação - a floresta de sangue dos mercenários de Putin
+    link_url: https://expresso.pt/sociedade/2022-07-26-Investigacao-a-floresta-de-sangue-dos-mercenarios-de-Putin-ad75beec
   name: Expresso
   url: https://expresso.pt
 - lang: "[FR, NL]"
   links:
-  - name: Hoe Russische huurlingen de handel in tropisch hout overnemen
-    url: https://www.standaard.be/cnt/dmf20220725_97612819
+  - link_name: Hoe Russische huurlingen de handel in tropisch hout overnemen
+    link_url: https://www.standaard.be/cnt/dmf20220725_97612819
   name: De Standaard
   url: https://www.standaard.be/
 - lang: "[FR]"
   links:
-  - name: Bois tropical contre mercenaires russes - comment la Centrafrique a brade
+  - link_name: Bois tropical contre mercenaires russes - comment la Centrafrique a brade
       une foret au groupe Wagner
-    url: https://www.lesoir.be/456051/article/2022-07-26/bois-tropical-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret
+    link_url: https://www.lesoir.be/456051/article/2022-07-26/bois-tropical-contre-mercenaires-russes-comment-la-centrafrique-brade-une-foret
   name: Le Soir
   url: https://www.lesoir.be/
 - lang: "[FR]"
   links:
-  - name: Quand les mercenaires russes de Wagner deboisent la foret centrafricaine
-    url: https://www.rts.ch/info/monde/13264727-quand-les-mercenaires-russes-de-wagner-deboisent-la-foret-centrafricaine.html
+  - link_name: Quand les mercenaires russes de Wagner deboisent la foret centrafricaine
+    link_url: https://www.rts.ch/info/monde/13264727-quand-les-mercenaires-russes-de-wagner-deboisent-la-foret-centrafricaine.html
   name: Radio Television Suisse
   url: https://www.rts.ch/
 - lang: "[IT]"
   links:
-  - name: Così i russi di Wagner si sono presi una foresta in Centrafrica
-    url: https://www.ilfattoquotidiano.it/in-edicola/articoli/2022/07/26/cosi-i-russi-di-wagner-si-sono-presi-una-foresta-in-centrafrica/6742435/
+  - link_name: Così i russi di Wagner si sono presi una foresta in Centrafrica
+    link_url: https://www.ilfattoquotidiano.it/in-edicola/articoli/2022/07/26/cosi-i-russi-di-wagner-si-sono-presi-una-foresta-in-centrafrica/6742435/
   name: Il Fatto Quotidiano
   url: https://www.rts.ch/
 - lang: "[DK]"
   links:
-  - name: De russiske lejesoldater tager sig altid godt betalt. I guld, diamanter og olie. Nu har de fået appetit på andre rigdomme
-    url: https://politiken.dk/udland/art8896911/De-russiske-lejesoldater-tager-sig-altid-godt-betalt.-I-guld-diamanter-og-olie.-Nu-har-de-f%C3%A5et-appetit-p%C3%A5-andre-rigdomme
+  - link_name: De russiske lejesoldater tager sig altid godt betalt. I guld, diamanter og olie. Nu har de fået appetit på andre rigdomme
+    link_url: https://politiken.dk/udland/art8896911/De-russiske-lejesoldater-tager-sig-altid-godt-betalt.-I-guld-diamanter-og-olie.-Nu-har-de-f%C3%A5et-appetit-p%C3%A5-andre-rigdomme
   name: Politiken
   url: https://politiken.dk/  
 - lang: "[RU]"
   links:
-  - name: Повар Путина в африканском лесу
-    url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu
+  - link_name: Повар Путина в африканском лесу
+    link_url: https://istories.media/investigations/2022/07/26/povar-putina-v-afrikanskom-lesu
   name: Важные истории
   url: https://istories.media
 team_initiators: "[Radio Television Suisse](https://www.rts.ch/) (Dimitri Zufferey),
