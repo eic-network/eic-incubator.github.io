@@ -1,6 +1,10 @@
 * {
     font-family: 'Quicksand' !important;
 }
+i.fa::before {
+    font-family: FontAwesome !important;
+}
+
 .vertical-align {
     display: flex;
     align-items: center;
