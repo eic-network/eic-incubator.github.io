@@ -1,19 +1,20 @@
 {% assign projects = site.projects | sort: 'date' | reverse %}
 {% assign projects_count = projects | size %}
 {% if projects_count %}
-<section id="projects" class="no-padding-bottom">
+{% include colors.html %}
+<section id="{{include.custom_id}}" class="no-padding-bottom">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
                 <h2 class="heading">Projects</h2>
             </div>
+            {% if include.content %}
             <div class="col-md-12">
-                <p class="projects-intro">
-                    The EIC incubator is an expansion of the EIC.network, working in the public 
-                    interest, and our shared portfolio can be found here: 
-                    <a href="/#projects">projects</a>.
+                <p class="{{include.custom_id}}-intro">
+                    {{ include.content }}
                 </p>
             </div>
+            {% endif %}
         </div>
     </div>
     <div class="container-fluid">

@@ -1,21 +1,5 @@
-<section id="intro" class="intro">
-<style>
-    section#intro:before {
-        content: ' ';
-        display: block;
-        position: absolute;
-        left: 0;
-        top: 0;
-        width: 100%;
-        height: 100%;
-        opacity: 0.2;
-        background-repeat: no-repeat;
-        background-position: 50% 0;
-        background-color: {{include.color}}; 
-        background-image: url({{site.url}}/{{include.image}}); 
-        background-size: cover;
-    }
-</style>
+{% include colors.html %}
+<section id="{{include.custom_id}}" class="intro">
     <div class="overlay" style="background-color: #fff;"></div>
     <img src="{{ site.url }}/assets/images/eic.logo.image.svg" class="eic-logo-top-left">
     <div class="content row vertical-align">

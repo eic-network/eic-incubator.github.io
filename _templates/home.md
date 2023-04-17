@@ -41,6 +41,8 @@ sections:
     custom_id: projects
     content: |
       projects content tbd
+    image: ''
+    color: ''
     template: home/projects
     collection: projects
     list_template: home/cards/project
@@ -50,6 +52,8 @@ sections:
     custom_id: team
     content: |
       team content tbd
+    image: ''
+    color: ''
     template: home/members
     subcollection: team
     list_template: home/cards/team-member
@@ -84,9 +88,12 @@ sections:
     custom_id: footer
     content: |
       footer content
+    image: ''
+    color: ''
     template: footer
 role: home
 ---
+
 
 
 
