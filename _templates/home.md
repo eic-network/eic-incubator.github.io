@@ -6,12 +6,12 @@ sections:
     displayed: true
     custom_id: intro
     content: >
-      <p class="eic-subheading" style="color:#000000; font-weight: bolder;">
+      \<p class="eic-subheading" style="color:#000000; font-weight: bolder;">
         Investigating
-        <span class="orange-text">climate</span> collapse,
-        <span class="orange-text">society</span> and
-        <span class="orange-text">beyond</span>
-      </p>
+        \<span class="orange-text">climate\</span> collapse,
+        \<span class="orange-text">society\</span> and
+        \<span class="orange-text">beyond\</span>
+      \</p>
 
 
       a newsroom-endorsed independent non-profit incubator of big
@@ -40,7 +40,7 @@ sections:
     displayed: true
     custom_id: projects
     content: |
-      projects content tbd
+      projects content tbd brigada diverse
     image: ''
     color: ''
     template: home/projects
@@ -93,6 +93,7 @@ sections:
     template: footer
 role: home
 ---
+
 
 
 
