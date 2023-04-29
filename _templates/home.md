@@ -1,6 +1,14 @@
 ---
 title: Home
 sections:
+  - title: Call for proposals
+    positioning: inside
+    displayed: true
+    custom_id: call for proposals
+    content: |
+      apply now. this that
+    color: '#D0021B'
+    template: generic
   - title: Intro
     positioning: before
     displayed: true
@@ -106,6 +114,7 @@ sections:
     template: footer
 role: home
 ---
+
 
 
 
