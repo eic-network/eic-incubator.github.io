@@ -1,14 +1,6 @@
 ---
 title: Home
 sections:
-  - title: About
-    positioning: inside
-    displayed: true
-    custom_id: about
-    content: |
-      !ABOUT!
-    image: /assets/images/startup-room.jpg
-    template: generic
   - title: Intro
     positioning: before
     displayed: true
@@ -48,6 +40,14 @@ sections:
     custom_id: nav
     content: ''
     template: nav
+  - title: About
+    positioning: inside
+    displayed: true
+    custom_id: about
+    content: |
+      !ABOUT!
+    image: /assets/images/startup-room.jpg
+    template: generic
   - title: Projects
     positioning: inside
     displayed: true
@@ -106,6 +106,7 @@ sections:
     template: footer
 role: home
 ---
+
 
 
 
