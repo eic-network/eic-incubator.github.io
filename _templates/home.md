@@ -7,10 +7,15 @@ sections:
     custom_id: intro
     content: >
       \<p class="eic-subheading" style="color:#000000; font-weight: bolder;">
-        Investigating
-        \<span class="orange-text">climate\</span> collapse,
-        \<span class="orange-text">society\</span> and
-        \<span class="orange-text">beyond\</span>
+
+      Investigating
+
+      \<span class="orange-text">climate\</span> collapse,
+
+      \<span class="orange-text">society\</span> and
+
+      \<span class="orange-text">beyond\</span>
+
       \</p>
 
 
@@ -93,6 +98,7 @@ sections:
     template: footer
 role: home
 ---
+
 
 
 
