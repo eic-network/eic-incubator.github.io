@@ -1,13 +1,16 @@
 items:
+  - image: /assets/images/eic.logo.image.svg
+    title: New name
+    url: 'https://eic.network/'
   - image: >-
-      https://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
+      /assets/imageshttps://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
     title: Director
     url: 'https://eic.network/'
   - image: /assets/images/IMG_5904.jpg
     title: Fundraising & Operational Management
     url: 'https://eic.network/'
   - image: >-
-      https://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
+      /assets/imageshttps://theblacksea.eu/_old/mirror/theblacksea.eu/RES/uploads/images/candea.jpg
     title: Another Director
     url: 'https://eic.network/'
   - image: /assets/images/1569271330813.jpeg
