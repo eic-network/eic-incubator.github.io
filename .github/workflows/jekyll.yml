@@ -49,12 +49,12 @@ jobs:
         uses: actions/cache@v3
         with:
           path: |
-            node_modules
+            .node_modules
           key: ${{ runner.os }}
       - name: Setup Yarn
-        run: npm install -g yarn
+        run: npm --prefix=.node_modules install -g yarn
       - name: Install Node packages
-        run: yarn
+        run: yarn --modules-folder=.node-modules
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
@@ -64,7 +64,7 @@ jobs:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}\
           JEKYLL_ENV: production
-        run: npm run build -- --incremental
+        run: npm --prefix=.node_modules run build -- --incremental
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
