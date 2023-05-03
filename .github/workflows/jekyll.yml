@@ -52,7 +52,7 @@ jobs:
             .node_modules
           key: ${{ runner.os }}
       - name: Install Node packages
-        run: npm i --prefix==.node-modules
+        run: npm i --prefix=.node-modules
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
