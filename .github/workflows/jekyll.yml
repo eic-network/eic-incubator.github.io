@@ -43,14 +43,18 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+          check-latest: true
+      - name: Cache Primes
+        id: cache-primes
+        uses: actions/cache@v3
+        with:
+          path: |
+            node_modules
+          key: ${{ runner.os }}
       - name: Setup Yarn
         run: npm install -g yarn
-      - name: Setup jekyll gem
-        run: gem install jekyll bundler
       - name: Install Node packages
         run: yarn
-      - name: Install Ruby bundle
-        run: bundle
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
@@ -60,7 +64,7 @@ jobs:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}\
           JEKYLL_ENV: production
-        run: npm run build
+        run: npm run build -- --incremental
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
