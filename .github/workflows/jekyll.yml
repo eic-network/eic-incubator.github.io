@@ -52,7 +52,7 @@ jobs:
             .node_modules
           key: ${{ runner.os }}
       - name: Configure Node
-        run: npm config set global=true && npm config set prefix=.node_modules
+        run: npm config -g set prefix=.node_modules
       - name: Install Node packages
         run: npm install
       - name: Setup Pages
