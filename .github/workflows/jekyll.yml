@@ -49,13 +49,14 @@ jobs:
         uses: actions/cache@v3
         with:
           path: |
+            .npm
             .node_modules
             .tina/__generated__
           key: ${{ runner.os }}
       - name: Configure Node
         run: npm config -g set prefix=.node_modules
       - name: Install Node packages
-        run: npm install
+        run: npm install --cache .npm
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
