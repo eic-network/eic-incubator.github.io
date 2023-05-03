@@ -45,16 +45,14 @@ jobs:
           node-version: 16
           check-latest: true
       - name: Cache dependencies
-        id: cache-primes
+        id: cache-deps
         uses: actions/cache@v3
         with:
           path: |
             .node_modules
           key: ${{ runner.os }}
-      - name: Setup Yarn
-        run: npm --prefix=.node_modules install -g yarn
       - name: Install Node packages
-        run: yarn --modules-folder=.node-modules
+        run: npm i --prefix==.node-modules
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
