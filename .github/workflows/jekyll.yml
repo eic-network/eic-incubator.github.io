@@ -50,6 +50,7 @@ jobs:
         with:
           path: |
             .node_modules
+            .tina/__generated__
           key: ${{ runner.os }}
       - name: Configure Node
         run: npm config -g set prefix=.node_modules
