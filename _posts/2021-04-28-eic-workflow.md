@@ -20,12 +20,12 @@ Stefan Candea is coordinating the Network communication, workflow and tools deve
 
 Here are our governing principles:
 
-  *   In a healthy network all nodes (participants) should profit from the network;
-  *   Keep the network alive, open to fresh ideas and people following new suggestions on partnerships;
-  *   In order to achieve a healthy growth, better network density and kick-starting the whole process, we will act as a laboratory for networked (investigative) journalism;
-  *   We start with basic research projects that would also be used to establish networking tools and collaborative platforms;
-  *   Decentralize the network's decision making process on new stories, new partners, new projects;
-  *   Understand and follow a set of predefined routines for each new project.
+* In a healthy network all nodes (participants) should profit from the network;
+* Keep the network alive, open to fresh ideas and people following new suggestions on partnerships;
+* In order to achieve a healthy growth, better network density and kick-starting the whole process, we will act as a laboratory for networked (investigative) journalism;
+* We start with basic research projects that would also be used to establish networking tools and collaborative platforms;
+* Decentralize the network's decision making process on new stories, new partners, new projects;
+* Understand and follow a set of predefined routines for each new project.
 
 We believe networks are here to stay. Due to their structure and methodology, collaborative networks are one of the few mechanisms able to keep up with the globalized power structures (ie. governments, corporations), thus becoming the only way forward for investigative journalism.
 
@@ -33,6 +33,6 @@ EIC is putting together different mind-sets, organization types and skills. This
 
 Our focus areas: (un)organized crime, environment, sport, public spending, corporate corruption, lobby, public health, religious groups, state aid, military & secret services, banks & finance, labor markets, migration.
 
-#### EIC Board 
+#### EIC Board
 
 The Board of EIC works together with the coordinator, Stefan Candea, to advise and decide on EIC partnerships, membership, future developments and the agenda of EIC General Assembly. The Board members are journalists working with the EIC member newsrooms. Current Board is made of Pierre-Yves Warnotte (Le Soir), Rafael Buschmann (Der Spiegel), Yann Pilippin (Medipart), Amalie Kestler (Politiken) and Melanie Amann (Der Spiegel) who is also the Chair of the Board. Zeynep Sentek (The Black Sea), Esther Rosenberg (NRC), Alain Lallemand (Le Soir), Anne Mette Svane (Politiken), Nicola Naber, Clemens Höges, Jörg Schmitt and Alfred Weinzierl (Der Spiegel) have been part of the Board in the past.
