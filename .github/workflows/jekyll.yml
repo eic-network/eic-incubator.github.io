@@ -62,7 +62,7 @@ jobs:
       - name: Configure Node
         run: npm config -g set prefix=.node_modules
       - name: Install Node packages
-        run: npm install --cache .npm
+        run: npm ci --omit=optional --cache .npm --prefer-offline
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
