@@ -1,11 +1,7 @@
 items:
-  - image: /assets/images/eic.logo.image.svg
-    title: EIC
-    url: 'https://eic.network/'
   - image: /assets/images/IMG_5904.jpg
     title: Zelda
     url: 'https://eic.network/zelda'
-  - image: >-
-      /assets/imageshttps://www.cognitrom.ro/wp-content/uploads/logo-cognitrom-3.png
-    title: Cognitrom
-    url: 'https://www.cognitrom.ro/'
+  - image: /assets/images/eic.logo.image.svg
+    title: EIC
+    url: 'https://eic.network/'
