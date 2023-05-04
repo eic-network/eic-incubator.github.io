@@ -69,7 +69,7 @@ jobs:
         id: cache-tinacms-save
         with:
           path: .tina/__generated__
-          key: ${{ runner.os }}-${{ hashFiles('./tina/config.js') }}
+          key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Build Tina CMS
         if: steps.cache.outputs.cache-hit != 'true'
         run: npx tinacms build
@@ -84,7 +84,7 @@ jobs:
         id: cache-tinacms-restore
         with:
           path: .tina/__generated__
-          key: ${{ runner.os }}-${{ hashFiles('./tina/config.js') }}
+          key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
