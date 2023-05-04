@@ -51,7 +51,6 @@ jobs:
         with:
           path: ./node_modules
           key: modules-${{ hashFiles('package-lock.json') }}
-
       - name: Install dependencies
         if: steps.cache_npm.outputs.cache-hit != 'true'
         run: npm ci --ignore-scripts
@@ -67,7 +66,7 @@ jobs:
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Build Tina CMS
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
-        run: npx tinacms build
+        run: npx tinacms@1.2.1 build
 
       - name: Build Jekyll
         env:
@@ -83,7 +82,7 @@ jobs:
         with:
           path: .tina/__generated__
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
-          
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
