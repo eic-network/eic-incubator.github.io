@@ -82,6 +82,7 @@ jobs:
         run: bundle exec jekyll build --incremental
       - uses: actions/cache/save@v3
         id: cache_tinacms_save
+        if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
         with:
           path: .tina/__generated__
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
