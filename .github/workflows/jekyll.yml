@@ -43,9 +43,19 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
-          cache: npm
           check-latest: true
-        run: npm ci
+
+      - name: Cache dependencies
+        id: cache_npm
+        uses: actions/cache@v3
+        with:
+          path: ./node_modules
+          key: modules-${{ hashFiles('package-lock.json') }}
+
+      - name: Install dependencies
+        if: steps.cache_npm.outputs.cache-hit != 'true'
+        run: npm ci --ignore-scripts
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
