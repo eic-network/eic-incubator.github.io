@@ -45,23 +45,7 @@ jobs:
           node-version: 16
           cache: npm
           check-latest: true
-      - name: Cache dependencies
-        id: cache-deps
-        uses: actions/cache@v3
-        with:
-          path: |
-            .npm
-            .node_modules
-          key: npm-dependencies
-      - name: Cache build
-        id: cache-build
-        uses: actions/cache@v3
-        with:
-          path: |
-            .tina/__generated__
-          key: tina-build
-      - name: Install Node packages
-        run: npm ci --cache .npm --prefer-offline
+        run: npm ci
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
