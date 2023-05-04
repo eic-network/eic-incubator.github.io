@@ -53,7 +53,7 @@ jobs:
             .node_modules
           key: npm-dependencies
       - name: Cache build
-        id: cache-deps
+        id: cache-build
         uses: actions/cache@v3
         with:
           path: |
