@@ -43,6 +43,7 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 16
+          cache: npm
           check-latest: true
       - name: Cache dependencies
         id: cache-deps
@@ -59,20 +60,31 @@ jobs:
           path: |
             .tina/__generated__
           key: tina-build
-      - name: Configure Node
-        run: npm config -g set prefix=.node_modules
       - name: Install Node packages
-        run: npm ci --omit=optional --cache .npm --prefer-offline
+        run: npm ci 
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      - name: Build TinaCMS
+      - uses: actions/cache/restore@v3
+        id: cache-tinacms
+        with:
+          path: .tina/__generated__
+          key: ${{ runner.os }}-${{ hashFiles('**/lockfiles') }}
+      - name: Build Tina CMS
+        if: steps.cache.outputs.cache-hit != 'true'
+        run: npx tinacms build
+      - name: Build Jekyll
         env:
           CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}\
           JEKYLL_ENV: production
-        run: npm run build -- --incremental
+        run: bundle exec jekyll build --incremental
+      - uses: actions/cache/save@v3
+        id: cache-tinacms
+        with:
+          path: .tina/__generated__
+          key: ${{ runner.os }}-${{ hashFiles('**/lockfiles') }}
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
