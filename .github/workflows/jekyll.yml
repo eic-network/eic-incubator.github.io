@@ -67,10 +67,13 @@ jobs:
       - uses: actions/cache/restore@v3
         id: cache_tinacms_restore
         with:
-          path: |
-            .tina/__generated__
-            ./_site/admin
+          path: .tina/__generated__
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
+      - uses: actions/cache/restore@v3
+        id: cache_admin_restore
+        with:
+          path: ./site/admin
+          key: ${{ runner.os }}-admin-${{ hashFiles('.tina/config.js') }}
       - name: Build TinaCMS
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
         env:
@@ -79,6 +82,12 @@ jobs:
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
           JEKYLL_ENV: production
         run: npm run build-tina
+      - uses: actions/cache/restore@v3
+        id: cache_admin_save
+        if: steps.cache_admin_restore.outputs.cache-hit != 'true'
+        with:
+          path: ./site/admin
+          key: ${{ runner.os }}-admin-${{ hashFiles('.tina/config.js') }}
       - name: Build Jekyll
         env:
           JEKYLL_ENV: production
@@ -87,10 +96,8 @@ jobs:
         id: cache_tinacms_save
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
         with:
-          path: |
-            .tina/__generated__
-            ./_site/admin
-          key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
+          path: .tina/__generated__
+        key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
