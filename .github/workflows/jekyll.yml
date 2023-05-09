@@ -70,12 +70,17 @@ jobs:
           path: .tina/__generated__
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Build TinaCMS
+        if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
         env:
           CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
-          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}\
+          TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
           JEKYLL_ENV: production
-        run: npm run build -- --incremental
+        run: npm run build-tina -- --incremental
+      - name: Build Jekyll
+        env:
+          JEKYLL_ENV: production
+        run: npm run build-jekyll -- --incremental
       - uses: actions/cache/save@v3
         id: cache_tinacms_save
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
