@@ -97,7 +97,7 @@ jobs:
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
         with:
           path: .tina/__generated__
-        key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
+          key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
