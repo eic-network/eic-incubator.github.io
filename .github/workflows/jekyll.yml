@@ -31,8 +31,10 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+
       - name: Checkout
         uses: actions/checkout@v3
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@ee2113536afb7f793eed4ce60e8d3b26db912da4 # v1.127.0
         with:
@@ -45,15 +47,18 @@ jobs:
         with:
           node-version: 19
           check-latest: true
+
       - name: Cache dependencies
         id: cache_npm_restore
         uses: actions/cache/restore@v3
         with:
           path: ./node_modules
           key: modules-${{ hashFiles('package-lock.json') }}
+
       - name: Install dependencies
         if: steps.cache_npm_restore.outputs.cache-hit != 'true'
         run: npm install
+
       - name: Save NPM cache
         uses: actions/cache/save@v3
         if: steps.cache_npm_restore.outputs.cache-hit != 'true'
@@ -64,16 +69,21 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
-      - uses: actions/cache/restore@v3
+
+      - name: Restore TinaCMS build
+        uses: actions/cache/restore@v3
         id: cache_tinacms_restore
         with:
           path: .tina/__generated__
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
-      - uses: actions/cache/restore@v3
+
+      - name: Restore TinaCMS admin site
+        uses: actions/cache/restore@v3
         id: cache_admin_restore
         with:
           path: ./admin
           key: ${{ runner.os }}-admin-${{ hashFiles('.tina/config.js') }}
+
       - name: Build TinaCMS
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
         env:
@@ -82,25 +92,32 @@ jobs:
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
           JEKYLL_ENV: production
         run: npm run build-tina
-      - uses: actions/cache/save@v3
+
+      - name: Save TinaCMS admin site
+        uses: actions/cache/save@v3
         id: cache_admin_save
         if: steps.cache_admin_restore.outputs.cache-hit != 'true'
         with:
           path: ./admin
           key: ${{ runner.os }}-admin-${{ hashFiles('.tina/config.js') }}
+
       - name: Build Jekyll
         env:
           JEKYLL_ENV: production
         run: npm run build-jekyll -- --incremental
-      - uses: actions/cache/save@v3
+
+      - name: Save TinaCMS cache
+        uses: actions/cache/save@v3
         id: cache_tinacms_save
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
         with:
           path: .tina/__generated__
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
+
 
   # Deployment job
   deploy:
