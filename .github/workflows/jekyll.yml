@@ -39,21 +39,27 @@ jobs:
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
+
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: 19
           check-latest: true
-
       - name: Cache dependencies
-        id: cache_npm
-        uses: actions/cache@v3
+        id: cache_npm_restore
+        uses: actions/cache/restore@v3
         with:
           path: ./node_modules
           key: modules-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
-        if: steps.cache_npm.outputs.cache-hit != 'true'
+        if: steps.cache_npm_restore.outputs.cache-hit != 'true'
         run: npm install
+      - name: Save NPM cache
+        uses: actions/cache/save@v3
+        if: steps.cache_npm_restore.outputs.cache-hit != 'true'
+        with:
+          path: ./node_modules
+          key: modules-${{ hashFiles('package-lock.json') }}
 
       - name: Setup Pages
         id: pages
