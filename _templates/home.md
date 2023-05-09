@@ -14,17 +14,12 @@ sections:
     displayed: true
     custom_id: intro
     content: >
-      \<p class="eic-subheading" style="color:#000000; font-weight: bolder;">
-
-      Investigating
-
-      \<span class="orange-text">climate\</span> collapse,
-
-      \<span class="orange-text">society\</span> and
-
-      \<span class="orange-text">beyond\</span>
-
-      \</p>
+      <p class="eic-subheading" style="color:#000000; font-weight: bolder;">
+        Investigating
+        <span class="orange-text">climate</span> collapse,
+        <span class="orange-text">society</span> and
+        <span class="orange-text">beyond</span>
+      </p>
 
 
       a newsroom-endorsed independent non-profit incubator of big
@@ -114,6 +109,7 @@ sections:
     template: footer
 role: home
 ---
+
 
 
 
