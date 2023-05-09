@@ -67,7 +67,9 @@ jobs:
       - uses: actions/cache/restore@v3
         id: cache_tinacms_restore
         with:
-          path: .tina/__generated__
+          path: |
+            .tina/__generated__
+            ./_site/admin
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Build TinaCMS
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
@@ -85,7 +87,9 @@ jobs:
         id: cache_tinacms_save
         if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
         with:
-          path: .tina/__generated__
+          path: |
+            .tina/__generated__
+            ./_site/admin
           key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
