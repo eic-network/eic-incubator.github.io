@@ -44,22 +44,25 @@ jobs:
         with:
           node-version: 16
           check-latest: true
+
       - name: Cache dependencies
-        id: cache-deps
+        id: cache_npm
         uses: actions/cache@v3
         with:
-          path: |
-            .npm
-            .node_modules
-            .tina/__generated__
-          key: ${{ runner.os }}
-      - name: Configure Node
-        run: npm config -g set prefix=.node_modules
-      - name: Install Node packages
-        run: npm install --cache .npm
+          path: ./node_modules
+          key: modules-${{ hashFiles('package-lock.json') }}
+      - name: Install dependencies
+        if: steps.cache_npm.outputs.cache-hit != 'true'
+        run: npm ci --ignore-scripts
+
       - name: Setup Pages
-        id: pages
-        uses: actions/configure-pages@v3
+          id: pages
+          uses: actions/configure-pages@v3
+      - uses: actions/cache/restore@v3
+          id: cache_tinacms_restore
+          with:
+            path: .tina/__generated__
+            key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Build TinaCMS
         env:
           CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
@@ -67,6 +70,12 @@ jobs:
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}\
           JEKYLL_ENV: production
         run: npm run build -- --incremental
+      - uses: actions/cache/save@v3
+        id: cache_tinacms_save
+        if: steps.cache_tinacms_restore.outputs.cache-hit != 'true'
+        with:
+          path: .tina/__generated__
+          key: ${{ runner.os }}-tina-${{ hashFiles('.tina/config.js') }}
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
