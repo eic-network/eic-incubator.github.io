@@ -22,6 +22,14 @@
                 {% for member in site.data.board.items %}
                     {% include {{include.list_template}}.html %}
                 {% endfor %}
+                {% elsif include.subcollection == "partners" %}
+                {% for member in site.data.partners.items %}
+                    {% include {{include.list_template}}.html %}
+                {% endfor %}
+            {% elsif include.subcollection == "collaborators" %}
+                {% for member in site.data.collaborators.items %}
+                    {% include {{include.list_template}}.html %}
+                {% endfor %}
             {% endif %}
         </div>
     </div>
