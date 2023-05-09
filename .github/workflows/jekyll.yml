@@ -78,7 +78,7 @@ jobs:
           TINA_PUBLIC_CLIENT_ID: ${{ secrets.TINA_PUBLIC_CLIENT_ID }}
           TINA_TOKEN: ${{ secrets.TINA_TOKEN }}
           JEKYLL_ENV: production
-        run: npm run build-tina -- --incremental
+        run: npm run build-tina
       - name: Build Jekyll
         env:
           JEKYLL_ENV: production
