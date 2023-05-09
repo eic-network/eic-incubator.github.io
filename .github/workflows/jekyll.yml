@@ -53,7 +53,7 @@ jobs:
           key: modules-${{ hashFiles('package-lock.json') }}
       - name: Install dependencies
         if: steps.cache_npm.outputs.cache-hit != 'true'
-        run: npm ci --ignore-scripts
+        run: npm install
 
       - name: Setup Pages
         id: pages
